@@ -1,8 +1,5 @@
-# bowdoin-csci2200.github.io
 
-
-## Algorithms (csci2200)
-## Bowdoin College
+## Algorithms (csci2200), Bowdoin College
 
 
 **Class websites:**
