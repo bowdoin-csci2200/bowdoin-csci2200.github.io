@@ -2,10 +2,12 @@
 ## Algorithms (csci2200), Bowdoin College
 
 
-**Class websites:**
+**previous  websites:**
 
-- spring 22: [https://bowdoin-csci2200-s22.github.io/](https://bowdoin-csci2200-s22.github.io/)
+* fall 2023: [https://bowdoin-csci2200-f23.github.io/](https://bowdoin-csci2200-f23.github.io/)
+* spring 2023: [https://bowdoin-csci2200-s23.github.io/](https://bowdoin-csci2200-s23.github.io/)
+* fall 2022: [https://bowdoin-csci2200-f22.github.io/](https://bowdoin-csci2200-f22.github.io/)
+* spring 2022: [https://bowdoin-csci2200-s22.github.io/](https://bowdoin-csci2200-s22.github.io/)
+* fall 2021: [https://bowdoin-csci2200-f21.github.io/](https://bowdoin-csci2200-f21.github.io/)
 
-- fall 21: [https://bowdoin-csci2200-f21.github.io/](https://bowdoin-csci2200-f21.github.io/)
-
-For classes before fall 2021, check out [https://www.bowdoin.edu/~ltoma/](https://www.bowdoin.edu/~ltoma/)
+  
