@@ -11,7 +11,7 @@ nav_order: 6
 ### Week 1: Warmup (bubble sort, insertion sort, selection sort) and analysis.
 
 
-__Objectives:__ 
+Objectives: 
   *  Review searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and their analysis
   *  Basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
 
@@ -26,7 +26,7 @@ __Resources:__
 ### Week 2: Asymptotic Notation and Summations
 
 
-__Objectives:__ 
+Objectives:
 * Relevance of analysis in practice, as well as its assumptions and limitations
 * Definitions of O(), Ω(), Θ()
 * Rate of growth of common functions
@@ -46,7 +46,7 @@ __Resources:__
    
 ### Week 3: Mergesort and Recurrences
 
-__Objectives:__ 
+Objectives: 
 * Mergesort: how it works, why it works, and its running time analysis
 * Express the running time of recursive algorithms using recurrences
 * Solve recurrences by repeated iteration
