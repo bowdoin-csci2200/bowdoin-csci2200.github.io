@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-### Honor code and group work
+## Honor code and group work
 
 Collaboration and discussion are crucial for this class.  You are
 encouraged to engage with the problems and discuss with peers as much
