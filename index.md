@@ -7,12 +7,11 @@ nav_order: 1
 
 # Welcome to Algorithms, Spring 2024! 
 
-This Github site hosts all **public** resources for the class
-(syllabus, office hours, policies and detailed schedule).  In addition
+This Github site hosts all _public_ resources for the class.  In addition
 we'll use:
 
 * __Canvas__: The class has a _Canvas_ site, accessible through your
-  Bowdoin portal, that hosts the **private** resources for this class
+  Bowdoin portal, that hosts the _private_ resources 
   (quizzes and the grade portal).
 
 * __Gradescope__: We'll use Gradescope for the assignments. Gradescope
@@ -20,7 +19,7 @@ we'll use:
   feedback, and it is also useful for implementing practices like
   anonymous grading. Gradescope is now integrated with Canvas, and you
   can access it from Canvas (under Modules). You can also access it
-  directly at _https://www.gradescope.com/_
+  directly at [https://www.gradescope.com/](https://www.gradescope.com/).
 
 * __Slack__: Class communication will be entirely on Slack. You will
   need to monitor Slack for class updates, including possible
