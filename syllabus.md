@@ -53,7 +53,7 @@ abstraction abilities and will be a big advantage to your career path, whatever 
 
 
 
-### How will the class work? 
+### How will this class work? 
 
 * We'll meet three times a week (3 x 85 minutes)
 
@@ -146,7 +146,7 @@ abstractions. Working on an algorithms assignment will seem easier than working 
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that is efficient and justifying that it is correct. That's the beauty of theory.
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that works and is efficient, and justifying that it is correct. And doing so on paper, without implementing it. That's the beauty of theory.
 
 
 ### Tips for doing well 
