@@ -4,7 +4,7 @@ title: ---Labs
 nav_order: 7
 ---
 
-### Labs 
+## Labs 
 
 The lab problems are meant to be solved in class, working with your group.   Labs are __not__ graded and their goal is to help you learn. It is
 important that you strive to work through all problems, write down your answers, formulate questions, discuss with your group, and get your questions answered. We will ocasionally go over solutions to some lab problems as a class and if you find that
