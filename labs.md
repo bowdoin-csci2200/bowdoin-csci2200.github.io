@@ -6,26 +6,17 @@ nav_order: 7
 
 ### Labs 
 
-Every week there will be a lab handout which contains problems on the
-topics discussed that week. The lab problems are meant to be solved in
-class, working with your group.  Myself and the LAs will be around to
-work with the groups, facilitate discussions and answer questions.
-
-Labs are __not__ graded and their goal is to help you learn. It is
-important that you strive to work through all problems, check your
-notes, formulate questions, discuss with your group, the LAs and the
-instructor, and get your questions answered. We will ocasionally go
-over solutions to some lab problems as a class and if you find that
+The lab problems are meant to be solved in class, working with your group.   Labs are __not__ graded and their goal is to help you learn. It is
+important that you strive to work through all problems, write down your answers, formulate questions, discuss with your group, and get your questions answered. We will ocasionally go over solutions to some lab problems as a class and if you find that
 useful (or not) be sure to let me know how you feel so that we can
-adjust.
-
-Overall you will  find that most of your learning occurs in the lab. 
+adjust. Overall you will  find that most of your learning occurs in the lab. 
 
 
 * [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
 
 
-#*[Lab 2](docs/lab2.pdf) (Asymptotics) 
+<!---
+*[Lab 2](docs/lab2.pdf) (Asymptotics) 
 #*[Lab 3](docs/lab3.pdf) (Recurrences)
 #*[Lab 4](docs/lab4.pdf) (Sorting)
 #*[Lab5](docs/lab5.pdf) (Sorting), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [p#ython-quickSort.ipynb](/docs/python-quicksort.ipynb)
@@ -38,3 +29,4 @@ Overall you will  find that most of your learning occurs in the lab.
 #*[Lab12](docs/lab12.pdf) (more graphs basics)
 #*[Lab13](docs/lab13.pdf) (shortest paths)
 #*[Lab14](docs/lab14.pdf) (minimum spanning trees)
+--->
