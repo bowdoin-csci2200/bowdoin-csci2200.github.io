@@ -9,13 +9,9 @@ nav_order: 4
 
 
 
-We have a wonderful group of LAs who will support the weekly labs and hold office hours/study groups.  
- 
-- Narmer Bazile, Zelia Egan, Ziyou Hu and Luke Shaw 
-
-
-
-The weekly schedule for LA **office hours**  is below. 
+We have a wonderful group of LAs who will support the weekly labs and
+hold office hours/study groups: Narmer Bazile, Zelia Egan, Ziyou Hu
+and Luke Shaw. Their weekly schedule is below. 
 
 
 |              |   Time  (Who & location )  |
