@@ -8,13 +8,9 @@ nav_order: 5
 ## Policies 
 
 ### Colaboration policy
-Collaboration and discussion are crucial for this class.  You are
-encouraged to engage with the problems and discuss with peers as much
-as you can. You will most likely find that you will gain a better
-understanding of the material by discussing the problems with
-peers. Our goal is to ensure that the collaboration is appropriate and
-effective, and that you become an independent problem solver capable
-to do work on your own.
+Collaboration and discussion are crucial for this class. You will most likely find that you will gain a better
+understanding of the material by discussing the problems with peers. Our goal is to ensure that the collaboration is appropriate and
+effective, and that you become an independent problem solver capable to do work on your own.
 
 All students are expected to be familiar with
 and to comply with the department's [collaboration
