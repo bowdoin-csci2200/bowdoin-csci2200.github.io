@@ -91,13 +91,10 @@ topics, so it is critical not to fall behind!
 
 Exceptions to the late policy will be made in case of significant
 circumstances (such as you are sick in bed, concussion, etc). If
-anything arises that you forsee will impact your ability to meet a
-deadline, please let me know as soon as possible.
-
+such a situation arises please let me know as soon as possible.
 Note that the circumstances have to be _significant_ (for e.g. taking
 two classes with homework deadlines the same day, or traveling for
-athletics events or hackathons, do not count as an unusual
-circumstance).
+athletics events or hackathons, do not count as an emergency). 
 
 
 ### Regrades
