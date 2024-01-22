@@ -4,7 +4,7 @@ title: Useful links
 nav_order: 10
 ---
 
-### Resources 
+## Resources 
 
 
 __Textbook:__ The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. 
