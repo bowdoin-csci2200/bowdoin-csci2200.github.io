@@ -76,6 +76,7 @@ automatically applied in Canvas.  Most topics build directly on prior
 topics, so it is critical not to fall behind!
 
 
+<!---
 #### Flex days 
 #To provide some flexibility  you are allotted __three flex days__ for
 #the semester, each of which may be used to submit an assignment or a
@@ -89,7 +90,7 @@ topics, so it is critical not to fall behind!
 #Since Canvas does not implement Flex days at the moment, at the end of
 #the semester I will go through your assignments and quizzes and I will
 #waive three late penalties (corresponding to three flex days).
-
+--->
 
 
 
