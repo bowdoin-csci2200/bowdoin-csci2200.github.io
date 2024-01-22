@@ -8,9 +8,7 @@ nav_order: 7
 
 The lab problems are meant to be solved in class, working with your group.   Labs are __not__ graded and their goal is to help you learn. It is
 important that you strive to work through all problems, write down your answers, formulate questions, discuss with your group, and get your questions answered. We will ocasionally go over solutions to some lab problems as a class and if you find that
-useful (or not) be sure to let me know how you feel so that we can
-adjust. Overall you will  find that most of your learning occurs in the lab. 
-
+useful (or not) be sure to let me know how you feel so that we can adjust. 
 
 * [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
 
