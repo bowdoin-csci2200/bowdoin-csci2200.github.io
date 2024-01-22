@@ -4,19 +4,13 @@ title: Syllabus
 nav_order: 2
 ---
 
-# Algorithms, Spring 2024
+# Algorithms (csci 2200, Spring 2024): Syllabus 
 
-## Syllabus
-
-
-__Instructor:__ Laura Toma, email: ltoma at bowdoin.edu, office: Searles 219 
-
+__Instructor:__ Laura Toma, office: Searles 219 
 __Class time:__  MW  10:05-11:30, L1 Fri 10:05-11:30, L2 Fri 11:40-1:05
-
-__Classroom:__  classes in Searles 223, labs in VAC North 304
+__Classroom:__   MW in Searles 223, F in VAC North 304
 
 **Prerequisites:** csci 2101 (Data Structures)
-
 
 Algorithms are the backbone of computer science. Everywhere computer
 sciences reaches, there is an algorithm.  This class is an
@@ -43,7 +37,17 @@ of computer science in general" [Kleinberg & Tardos]
       3. Analyze their theoretical complexity and compare them
       4. Consider the question: Can the solution be improved?
   
-
+Some of you will
+go on to software engineering careers where a strong algorithmic
+background is a must.  Many of you will go through technical
+interviews which draw heavily from the content of this class. It is
+important to pack many topics in the syllabus and expose you to
+challenging new problems.  
+Ultimately the goal of the class is to give
+you the tools so that you can solve new problems on your own.  A
+strong algorithmic backgound will improve your analytical and
+abstraction abilities and will be a big advantage to your career path,
+whatever it might be. 
 
   
 ### Schedule at a glance
@@ -52,48 +56,32 @@ of computer science in general" [Kleinberg & Tardos]
 | Week 1, 2, 3    |  Introduction and review (bubble sort, insertion sort, selection sort, best case and worst cases analysis). Analysis tools (asymptotic notation, summations, recurrences). |                
 | Week 4, 5, 6    | Efficient sorting (mergesort, heapsort,  quicksort, randomized quicksort). Sorting lower bound, bucket sort and counting sort. Selection with quick-select) and in O(n) worst-case. |                      
 | Week 7, 8, 9, 10  | Techniques (divide-and-conquer, dynamic programming and greedy).  |                           
-| Week 11, 12, 13, 14, 15 | Graphs basics, shortest paths on DAGs, Dijkstra's  and Bellman-Ford SSSP algorithms, and minimum spanning trees with Kruskal's and Prim's algorithms.|
+| Week 11, 12, 13, 14| Graphs basics, shortest paths on DAGs, Dijkstra's  and Bellman-Ford SSSP algorithms, and minimum spanning trees with Kruskal's and Prim's algorithms.|
 
 
 
 
-### Read the lecture notes
+### How will the class work? 
 
-Each week, _before coming to class_, read the lecture notes so that
+* We'll meet three times a week (3 x 85 minutes)
+
+* Each week, _before coming to class_, read the lecture notes so that
 that you understand the big ideas and results ahead of the class.
 This will make class time more effective and will allow more time for
 questions and problems.
 
-### The labs 
-
-Every week we have a set of problems (the lab) focused on the topics
-discussed that week. The lab problems are meant to be solved in class,
-working with your group. Myself and the LAs will be around to work
-with you, facilitate discussions and answer questions.
-
-Labs are not graded and their goal is to help you learn.  It is
+* Every week we have a set of problems (the lab) focused on the topics
+discussed that week. Lab problems are __not graded__ and they are meant to be solved in class.  It is
 important that you strive to work through all problems, formulate
-questions, check your notes, discuss with your group, the LAs and the
-instructor, and get your questions answered. We will ocasionally go
+questions, discuss with your group and get your questions answered. We will ocasionally go
 over solutions to some lab problems as a class and if you find that
 useful (or not) be sure to let me know how you feel so that we can
 adjust.
 
-Overall you’ll probably find that most of your learning occurs in the
-lab while working with your peers!
+* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. Their goal is to help you study. 
 
-
-### Assignments
-
-There will be 8-12 assignments this semester, roughly one assignment
-per week, which  will be released in Gradescope. 
-
-The assignments consist of _new_ problems for which you'll have to
-come up with efficient solutions on your own. The assignments will
-generally be hard and will provide opportunities to learn at a deeper
-level, and will work towards the learning goal of "develop solutions
-to new problems".
-
+* There will be 8-10 assignments which  will be released in Gradescope. 
+The assignments will generally be hard and will consist of _new_ problems for which you will have to come up with solutions. 
 We expect everyone to do well on the homework, and to take the time to
 write your work carefully. An important goal of the assignments is to
 develop good algorithmic writing style --- your solutions need to look
@@ -101,27 +89,6 @@ professional, neat, easy to understand, explained, justified and
 analyzed.
 
 
-_Assignment partner policy:_ You may work with one partner (see course
-policies for details on what this means).  One member of the team
-should submit the assignment and should add the other member to the
-"team" so that (s)he can get the credit.
-
-_Assignment honor code:_ 
-* Level 1: Assignments are at collaboration-level 1; that is,
-verbal collaboration without solution sharing (check course policies
-for details on what this means).  
-
-*  Use the internet to learn, but don't cheat: There are lots of resources online, such as lecture notes, animations, visualizations, practice problems,
-video recordings, which you are encouraged to explore to help you
-understand the material. _However, you must be careful not to search
-the internet (and that includes ChatGPT) for the homework  problems.  Searching for the
-assignment problems on the internet violates academic honesty for this
-class._
-
-
-
-
-  
 ### Work and Grading Policy
 
 - __Assignments: 40%__ 
@@ -145,8 +112,7 @@ class._
 This is a core CS class and will demand a significant time commitment
 in order to achieve the learning goals. The actual time will vary from
 week to week as some topics (esp towards the middle of the semester)
-will be harder and may take more hours, and also based on your
-background and interests.
+will be harder and may take more hours.
 
 Some of you will put in more or less time than suggested. That is
 normal.  If you find that you struggle with discrete math
@@ -158,27 +124,12 @@ problems provided with each lab.
 
 ### What you can expect from me
 
-My goal is to teach a class that's similar to algorithms classes at
-peer institutions. The syllabus is packed and you will find the pace
-and the problems ocasionally challenging. Many of the problems in labs
-and assignments come from algorithms classes at other universities
-(such as Stanford, MIT, Berkeley, etc).  Speaking of that, I am a big
-fan of and grateful for open resources, and this is the reason I keep
-this website on _github_ rather than behind Canvas.  Some of you will
-go on to software engineering careers where a strong algorithmic
-background is a must.  Many of you will go through technical
-interviews which draw heavily from the content of this class. It is
-important to pack many topics in the syllabus and expose you to
-challenging new problems.  Ultimately the goal of the class is to give
-you the tools so that you can solve new problems on your own.  A
-strong algorithmic backgound will improve your analytical and
-abstraction abilities and will be a big advantage to your career path,
-whatever it might be.
+My goal is to teach a class which is similar to algorithms classes at
+peer institutions. Many of the problems in labs and assignments come from  Stanford, MIT, Berkeley, etc.  
 
 My teaching style is to create a friendly, open atmosphere where
 everyone feels comfortable and motivated to learn. There are no stupid
-questions---any question is a sign that you want to engage. Based on
-my experience, the most effective learning happens when YOU all work
+questions---any question is a sign that you want to engage. The most effective learning happens when YOU all work
 well together.  Open collaboration in the lab is  highly
 encouraged. All assignments are pair-optional, although everyone is highly
 encouraged to find a partner.  To support everyone's learning at their
@@ -192,24 +143,24 @@ you have any (significant) circumstances that make learning hard, just
 talk to me, and we will figure something out.
 
 
+### What's special about this class? 
 
-### Tips
-
-You will likely find this class to be difficult and very different
-than 2101. The material is theoretical and spans many levels of
-abstractions. Furthermore coming up with algorithms is both an art and a
-science: there is no systematic way to have an idea, and problems that
+Coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that
 seem very similar, may have very different solutions.
 
 
-2101 vs 2200: Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (remember debugging). 
+
+### 2200 vs 2101
+
+Unlike csci 2101, the material in this class is theoretical and spans many levels of
+abstractions. Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (remember debugging). 
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
 * 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that is efficient and justifying that it is correct. That's the beauty of theory.
 
 
-Here are some suggestions for doing well :
+### Tips for doing well 
 
 * Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Take the labs seriously. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
 
