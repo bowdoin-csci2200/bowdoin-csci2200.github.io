@@ -37,9 +37,11 @@ of computer science in general" [Kleinberg & Tardos]
       3. Analyze their theoretical complexity and compare them
       4. Consider the question: Can the solution be improved?
   
-Some of you will
-go on to software engineering careers where a strong algorithmic
-background is a must.  Many of you will go through technical
+Put simply, the class has two goals: to deeply understand a set of fundamental algorithms, and to develop critical thinking so that you can find efficient solutions to new problems, computational or not.
+
+Some of you will go on to software engineering careers where a strong algorithmic
+background is a must.  
+Many of you will go through technical
 interviews which draw heavily from the content of this class. It is
 important to pack many topics in the syllabus and expose you to
 challenging new problems.  
