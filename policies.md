@@ -5,8 +5,9 @@ nav_order: 5
 ---
 
 
-## Honor code and group work
+## Policies 
 
+### Colaboration policy
 Collaboration and discussion are crucial for this class.  You are
 encouraged to engage with the problems and discuss with peers as much
 as you can. You will most likely find that you will gain a better
@@ -20,12 +21,9 @@ and to comply with the department's [collaboration
 policy](https://turing.bowdoin.edu/dept/collab.php) and the four
 levels of collaboration it outlines. Specifically for this class,
 
-  * **In-class work and labs:** All in-class work towards
-      understanding the lectures, including lab problems, practice
-      problems and self-quizzes are (unless otherwise specified) at
-      *collaboration-level 0*; that is, no restrictions.
+  * **In-class work and labs:** *collaboration-level 0*; that is, no restrictions.
 
-  * **Assignments:** The assignments are at *collaboration-level 1*;
+  * **Assignments:**  *collaboration-level 1*;
       that is, verbal collaboration without solution sharing. You are
       allowed and encouraged to discuss ideas with other class
       members, but the communication should be verbal. No one is
@@ -34,7 +32,7 @@ levels of collaboration it outlines. Specifically for this class,
       actually understood it). Communication needs to stay at a high
       level and cannot include sharing pseudo-code for the problem.
 
-  * **Exams:** At *collaboration-level 3* (no collaboration
+  * **Exams:** *collaboration-level 3* (no collaboration
       allowed, professor clarifications only).
 
 ### Internet policy
