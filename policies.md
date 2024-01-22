@@ -10,8 +10,7 @@ nav_order: 5
 ### Colaboration policy
 Collaboration and discussion are crucial for this class. You will most likely find that you will gain a better
 understanding of the material by discussing the problems with peers. Our goal is to ensure that the collaboration is appropriate and
-effective, and that you become an independent problem solver capable to do work on your own.
-
+effective, and that you become an independent problem solver capable to do work on your own. 
 All students are expected to be familiar with
 and to comply with the department's [collaboration
 policy](https://turing.bowdoin.edu/dept/collab.php) and the four
@@ -101,9 +100,4 @@ error, not simply because you want a higher grade.  If the assignment
 was handled via Gradescope, you can submit the Regrade request on
 Gradescope. Otherwise, send me a message on Slack.
 
-
-### Communication 
-
-All class communication will happen via Slack. Rather than sending me
-an email, please send instead a private message on Slack.
 
