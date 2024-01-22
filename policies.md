@@ -48,12 +48,6 @@ solutions. __Searching for the assignment problems on the internet,
 and this includes ChatGPT, violates academic honesty for this class.__
 
 
-Remember that you are responsible for reading, understanding, and
-adhering to the department policy. If you have any questions about any
-aspects of the policy, please do not hesitate to ask for
-clarification.
-
-
 
 ### Assignment Partner Policy
 
