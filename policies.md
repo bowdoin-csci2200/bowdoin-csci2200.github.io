@@ -77,19 +77,18 @@ topics, so it is critical not to fall behind!
 
 
 #### Flex days 
-# To provide some flexibility  you are allotted __three flex days__ for
-# the semester, each of which may be used to submit an assignment or a
-# quiz up to 24 hours late (up to 72 hours late if all three flex days
-# are applied all at once). For a team assignment, applying a flex day
-# uses a flex day from each group member’s allotment. If you want to use
-# a Flex day please message me on Slack clearly stating which flex days
-# you want use and for which assignment/quiz (for e.g. "I would like to
-# use 1st flex day for assignment 4").  
+#To provide some flexibility  you are allotted __three flex days__ for
+#the semester, each of which may be used to submit an assignment or a
+#quiz up to 24 hours late (up to 72 hours late if all three flex days
+#are applied all at once). For a team assignment, applying a flex day
+#uses a flex day from each group member’s allotment. If you want to use
+#a Flex day please message me on Slack clearly stating which flex days
+#you want use and for which assignment/quiz (for e.g. "I would like to
+#use 1st flex day for assignment 4").  
 
-# Since Canvas does not implement Flex days at the moment, at the end of
-# the semester I will go through your assignments and quizzes and I will
-# waive three late
-penalties (corresponding to three flex days).
+#Since Canvas does not implement Flex days at the moment, at the end of
+#the semester I will go through your assignments and quizzes and I will
+#waive three late penalties (corresponding to three flex days).
 
 
 
