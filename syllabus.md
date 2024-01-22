@@ -6,9 +6,10 @@ nav_order: 2
 
 # Algorithms (csci 2200, Spring 2024): Syllabus 
 
-__Instructor:__ Laura Toma, office: Searles 219 
-__Class time:__  MW  10:05-11:30, L1 Fri 10:05-11:30, L2 Fri 11:40-1:05
-__Classroom:__   MW in Searles 223, F in VAC North 304
+|:---------------------|:--------------------|    
+|__Instructor:__ | Laura Toma, office: Searles 219 |
+| __Class time:__  | MW  10:05-11:30, L1 Fri 10:05-11:30, L2 Fri 11:40-1:05|
+|__Classroom:__   | MW in Searles 223, F in VAC North 304 |
 
 **Prerequisites:** csci 2101 (Data Structures)
 
@@ -40,16 +41,10 @@ of computer science in general" [Kleinberg & Tardos]
 Put simply, the class has two goals: to deeply understand a set of fundamental algorithms, and to develop critical thinking so that you can find efficient solutions to new problems, computational or not.
 
 Some of you will go on to software engineering careers where a strong algorithmic
-background is a must.  
-Many of you will go through technical
-interviews which draw heavily from the content of this class. It is
-important to pack many topics in the syllabus and expose you to
-challenging new problems.  
-Ultimately the goal of the class is to give
-you the tools so that you can solve new problems on your own.  A
-strong algorithmic backgound will improve your analytical and
-abstraction abilities and will be a big advantage to your career path,
-whatever it might be. 
+background is a must.   Many of you will go through technical interviews which draw heavily from the content of this class. It is
+important to pack many topics in the syllabus and expose you to challenging new problems.  Ultimately the goal of the class is to give
+you the tools so that you can solve new problems on your own.  A strong algorithmic backgound will improve your analytical and
+abstraction abilities and will be a big advantage to your career path, whatever it might be. 
 
   
 ### Schedule at a glance
@@ -67,7 +62,7 @@ whatever it might be.
 
 * We'll meet three times a week (3 x 85 minutes)
 
-* Each week, _before coming to class_, read the lecture notes so that
+* Each week, before coming to class, read the lecture notes so that
 that you understand the big ideas and results ahead of the class.
 This will make class time more effective and will allow more time for
 questions and problems.
@@ -80,15 +75,12 @@ over solutions to some lab problems as a class and if you find that
 useful (or not) be sure to let me know how you feel so that we can
 adjust.
 
-* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. Their goal is to help you study. 
+* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. They are optional, and are meant to help you learn. 
 
 * There will be 8-10 assignments which  will be released in Gradescope. 
 The assignments will generally be hard and will consist of _new_ problems for which you will have to come up with solutions. 
 We expect everyone to do well on the homework, and to take the time to
-write your work carefully. An important goal of the assignments is to
-develop good algorithmic writing style --- your solutions need to look
-professional, neat, easy to understand, explained, justified and
-analyzed.
+write your work carefully.
 
 
 ### Work and Grading Policy
