@@ -35,7 +35,7 @@ levels of collaboration it outlines. Specifically for this class,
   * **Exams:** *collaboration-level 3* (no collaboration
       allowed, professor clarifications only).
 
-### Internet policy
+### Assignment Internet policy
 
 There are lots of resources online, such as lecture
 notes, animations, visualizations, practice problems, video
@@ -60,7 +60,7 @@ problems separately is not allowed and violates the honor code for the
 class.
 
 
-### Late policy 
+### Assignment late policy 
 
 Assignments submitted past the posted deadline will be accepted but
 will incur a penalty of .4% per hour (9.6% per day), which will be
