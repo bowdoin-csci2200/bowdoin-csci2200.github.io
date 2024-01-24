@@ -60,7 +60,7 @@ __Resources:__
 
 ### Week 4: Quicksort and Heapsort 
 
-__Objectives:__ 
+Objectives:
 * Lomuto partition, Quicksort, Randomized-Quicksort and analysis
 * Min/max-binary heap  and operations   (deleteMin/Max, insert, heapify, buildheap) along with  analysis 
 * Heapsort works in place 
@@ -75,7 +75,7 @@ __Resources:__
   
 ### Week 5: Sorting lower bound. Sorting without comparisons. 
 
-__Objectives:__ 
+Objectives: 
 * Can a sorting algorithm do better than Θ(n lg n) in the worst-case? Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
 * Non-comparison sorting: Understand BucketSort and CountingSort,  their analysis and assumptions
 
@@ -88,7 +88,7 @@ __Resources:__
 
 
 
-### Week 6: Exam 1 review and exam 1. Selection. 
+### Week 6: Selection. 
 
 __Objectives:__ 
 * The selection problem
@@ -98,7 +98,10 @@ __Objectives:__
 __Resources:__
   * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
   * __Lab:__   [Lab6](../docs/lab6.pdf) 
-  *   Exam1 in class
+
+***
+ 
+   *   Exam1 in class
   
  ***
 
@@ -107,7 +110,7 @@ What do you do when you want to solve a problem and you don't know where to star
 ### Week 7: Divide-and-conquer
 
 
-__Objectives:__ 
+Objectives: 
 * The divide-and-conquer technique 
 * Karatsuba's integer multiplication algorithm
 * Strassen's  matrix multiplication  
@@ -123,7 +126,7 @@ __Resources:__
 ### Week 8, 9: Dynamic Programming 
 
 
-__Objectives:__ 
+Objectives:
 * The dynamic programming  technique
 * Examples: Fibonacci, board game, rod cutting and knapsack
 * Justification of correctness via optimal substructure, and analysis
@@ -141,7 +144,7 @@ __Resources:__
 ### Week 10:The Greedy technique.  
 
 
-__Objectives:__ 
+Objectives:
 * The greedy technique  via the activity selection, including the correctness justification
 * Using the greedy technique to solve new problems
   
@@ -157,7 +160,7 @@ __Resources:__
 
 
 
-### Week 11:  Review and exam 2
+### Review and exam 2
 
 __Resources:__ [exam2-review](../docs/LN-review.pdf)
 * Exam 2 in class
@@ -166,10 +169,10 @@ __Resources:__ [exam2-review](../docs/LN-review.pdf)
  
  
  
-### Week 11.5, 12, 13.5:    Graphs Basics. BFS and DFS and their applications.  Topological order. Dynamic programming on DAGs. 
+### Week 11, 12:    Graphs Basics. BFS and DFS and their applications.  Topological order. Dynamic programming on DAGs. 
 
 
-__Objectives:__
+Objectives:
 * Graph representation:  adjacency list and adjacency matrix 
 * Basic concepts: sparse, complete, dense, trees, paths, connectivity, connected components, reachability, strongly connected components 
 * Breadth-first and depth-first traversals, their complexity,  and their properties 
@@ -182,10 +185,8 @@ __Resources:__
   
  ***
 
-
-***
   
-### Week  14:  Shortest paths on DAGs,  Dijkstra and  Bellman-Ford. 
+### Week  13:  Shortest paths on DAGs,  Dijkstra and  Bellman-Ford. 
 
 We discuss shortest paths on graphs and see some of the nicest
 algorithms in computer science: Dijkstra's and Bellman-Ford's
@@ -196,7 +197,7 @@ algorithm, making these nice applications of the techniques we studied
 earlier in the semester.
 
 
-__Objectives:__
+Objectives:
 * Shortest paths (SP) on DAgs via dynamic programming
 * Dijkstra's SP algorithm on graphs without negative weights
 * Bellman Ford's SP algorithm on general graphs
@@ -210,7 +211,7 @@ __Resources:__
  ***
 
  
-### Week 15: The Minimum Spanning Tree (MST) 
+### Week 14: The Minimum Spanning Tree (MST) 
 
 Another fundamental problem on graphs is computing a MST. We discuss
 some properties of MSTs which will get us intuition for how to
@@ -219,7 +220,7 @@ Prim's and Kruskal's, which are both greedy algorithms much in the
 spirit of Dijkstra.  Their correctness follows from a neat result
 called The Cut Theorem.
 
-__Objectives:__ 
+Objectives:
 * MST (minimum spaninng tree)  and properties
 * Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
@@ -231,6 +232,8 @@ __Resources:__
  
 ***
 
-### Exam 3: [final exam slot as posted in Polaris]
+### Exam 3
+
+[final exam slot as posted in Polaris]
 
 
