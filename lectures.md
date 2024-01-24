@@ -158,9 +158,7 @@ __Resources:__
 
 ***
 
-
-
-### Review and exam 2
+* Exam 2 in class
 
 __Resources:__ [exam2-review](../docs/LN-review.pdf)
 * Exam 2 in class
