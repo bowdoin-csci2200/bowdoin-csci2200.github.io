@@ -203,7 +203,7 @@ Objectives:
 * Finding negative cycles 
 
 __Resources:__
-*  __Lecture notes__: *  __Lecture notes:__ [LN-shpaths.pdf](../docs/LN-shpaths.pdf)
+*  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf)
 *  __Lab:__   [Lab13](../docs/lab13.pdf)
   
  ***
