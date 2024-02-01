@@ -11,7 +11,7 @@ important that you strive to work through all problems, write down your answers,
 useful (or not) be sure to let me know how you feel so that we can adjust. 
 
 * [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
-*[Lab 2](docs/lab2.pdf) (Asymptotics) 
+* [Lab 2](docs/lab2.pdf) (Asymptotics) 
 
 <!---
 #*[Lab 3](docs/lab3.pdf) (Recurrences)
