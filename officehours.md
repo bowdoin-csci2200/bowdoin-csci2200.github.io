@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-## Staff and office hours:  (tbd)
+## Staff and office hours 
 
 
 
