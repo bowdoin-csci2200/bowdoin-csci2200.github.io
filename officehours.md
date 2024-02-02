@@ -14,9 +14,8 @@ and Luke Shaw.  And Prof. Majercik!
 
 | ![](staff/luke.jpg) | ![](staff/narmer.png) | ![](staff/ziyou.jpg) | ![](staff/majercik.png) |
 
-|              |   Time  | (Who & location )  |
-|:-------------|:-------------|:---------------|
-| Sundays      |   
+
+| Sundays      |                              |
 | Mondays      |  7-9pm | Narmer, Searles 224 |
 | Tuesdays     |  7-9pm |  Ziyou, Searles 224 |
 | Wednesdays   |  7-9pm | Ziyou, Searles 224  |
