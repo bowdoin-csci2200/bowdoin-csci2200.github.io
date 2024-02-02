@@ -18,7 +18,7 @@ We have a wonderful group of LAs this semester: Luke Shaw, Narmer Bazile,  Ziyou
 | Mondays      |  7-9pm | Narmer, Searles 224 |
 | Tuesdays     |  7-9pm |  Ziyou, Searles 224 |
 | Wednesdays   |  7-9pm | Ziyou, Searles 224  |
-| Thursdays    |  1-3:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
+| Thursdays    |  2-3:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
 | Fridays      |    |
 | Saturdays    |    |
 
