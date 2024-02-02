@@ -12,11 +12,6 @@ nav_order: 5
 We have a wonderful group of LAs this semester: Narmer Bazile,  Ziyou Hu
 and Luke Shaw.  And Prof. Majercik! 
 
-
-| ![](staff/luke.jpg) | ![](staff/narmer.png)  | ![](staff/ziyou.jpg)  | ![](staff/majercik.png) |
-
-
-
 ![](staff/luke.png)
 ![](staff/narmer.png)
 ![](staff/ziyou.png)
