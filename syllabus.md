@@ -128,7 +128,7 @@ you have any (significant) circumstances that make learning hard, just
 talk to me, and we will figure something out.
 
 
-### What's special about this class? 
+### How is this class different than other CS classes? 
 
 Coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that
 seem very similar, may have very different solutions.
