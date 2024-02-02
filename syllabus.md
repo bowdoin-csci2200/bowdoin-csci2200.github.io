@@ -115,7 +115,7 @@ My goal is to teach a class which is similar to algorithms classes at
 peer institutions. Many of the problems in labs and assignments come from  Stanford, MIT, Berkeley, etc.  
 
 My teaching style is to create a friendly, open atmosphere where
-everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps me and the class  ----questions are a sign that you want to engage and will help me kep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly
+everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps me and the class  ----questions are a sign that you want to engage and will help me keep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly
 encouraged. All assignments are pair-optional, although everyone is highly
 encouraged to find a partner.  To support everyone's learning at their
 own pace I have created detailed lecture notes and an ample set of
