@@ -12,13 +12,19 @@ nav_order: 5
 We have a wonderful group of LAs this semester: Narmer Bazile,  Ziyou Hu
 and Luke Shaw.  And Prof. Majercik! 
 
-|           |     |    | 
-|:----------| ----|----|
-| ![](luke.png) | ![](narmer.png)  | ![](ziyou.png)  | ![](majercik.png) |
+|           |      |     |        |
+|:----------|: ----|:----|:-------|
+| ![](staff/luke.png) | ![](staff/narmer.png)  | ![](staff/ziyou.png)  | ![](staff/majercik.png) |
 
-| ![](luke.png) | ![](narmer.png)  | ![](ziyou.png)  | ![](majercik.png) |
 
-![](luke.png)  ![](narmer.png)  ![](ziyou.png)  ![](majercik.png) 
+| ![](staff/luke.png) | ![](staff/narmer.png)  | ![](staff/ziyou.png)  | ![](staff/majercik.png) |
+
+
+
+![](staff/luke.png)
+![](staff/narmer.png)
+![](staff/ziyou.png)
+![](staff/majercik.png) 
 
 |              |   Time  | (Who & location )  |
 |:-------------|:-------------|:---------------|
@@ -27,8 +33,8 @@ and Luke Shaw.  And Prof. Majercik!
 | Tuesdays     |  7-9pm |  Ziyou, Searles 224 |
 | Wednesdays   |  7-9pm | Ziyou, Searles 224  |
 | Thursdays    |  1-3:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
-| Fridays      |  
-| Saturdays    |  
+| Fridays      |    |
+| Saturdays    |    |
 
 
 __Laura's office hours:__ (Searles 219)
