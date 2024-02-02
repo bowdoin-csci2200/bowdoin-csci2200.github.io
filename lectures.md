@@ -31,10 +31,10 @@ Objectives:
 * Definitions of O(), Ω(), Θ()
 * Rate of growth of common functions
 * Finding the rate of growth of a function
-* Comparing the order of growth of two arbitrary functions f(n), g(n)
+* Comparing the order of growth of  arbitrary functions 
 * Analyzing basic algorithm running times using O(), Ω(), Θ() 
-* Arithmetic and geometric summations and their Θ() bound 
-* Recognizing arithmetic and geometric summations in different forms and give Θ() bounds
+* Arithmetic and geometric summations and their Θ() bounds 
+* Recognizing arithmetic and geometric summations in different forms
 
 
 __Resources:__    
