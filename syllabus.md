@@ -70,7 +70,7 @@ over solutions to some lab problems as a class and if you find that
 useful (or not) be sure to let me know how you feel so that we can
 adjust.
 
-* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. They are optional, and are meant to help you learn. 
+* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. They are optional, and are meant to guide your learning. 
 
 * There will be 8-10 assignments which  will be released in Gradescope. 
 The assignments will generally be hard and will consist of _new_ problems for which you will have to come up with solutions. 
@@ -101,14 +101,12 @@ write your work carefully.
 This is a core CS class and will demand a significant time commitment
 in order to achieve the learning goals. The actual time will vary from
 week to week as some topics (esp towards the middle of the semester)
-will be harder and may take more hours.
-
-Some of you will put in more or less time than suggested. That is
-normal.  If you find that you struggle with discrete math
+will be harder and may take more hours. The time will put will also vary base don yoru background and interests.
+If you find that you struggle with discrete math
 (e.g. logarithms, exponents, etc) you will need to allocate more time
-to grasp those concepts --- hang in there, you just need more
+to practice these concepts --- hang in there, you just need more
 practice. If you finish faster, use the time to work on the challenge
-problems provided with each lab.
+problems provided each week.
 
 
 ### What you can expect from me
@@ -117,9 +115,7 @@ My goal is to teach a class which is similar to algorithms classes at
 peer institutions. Many of the problems in labs and assignments come from  Stanford, MIT, Berkeley, etc.  
 
 My teaching style is to create a friendly, open atmosphere where
-everyone feels comfortable and motivated to learn. There are no stupid
-questions---any question is a sign that you want to engage. The most effective learning happens when YOU all work
-well together.  Open collaboration in the lab is  highly
+everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps me and the class  ----questions are a sign that you want to engage and will help me kep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly
 encouraged. All assignments are pair-optional, although everyone is highly
 encouraged to find a partner.  To support everyone's learning at their
 own pace I have created detailed lecture notes and an ample set of
