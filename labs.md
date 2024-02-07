@@ -12,9 +12,10 @@ useful (or not) be sure to let me know how you feel so that we can adjust.
 
 * [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
 * [Lab 2](docs/lab2.pdf) (Asymptotics) 
+* [Lab 3](docs/lab3.pdf) (Recurrences)
 
 <!---
-#*[Lab 3](docs/lab3.pdf) (Recurrences)
+
 #*[Lab 4](docs/lab4.pdf) (Sorting)
 #*[Lab5](docs/lab5.pdf) (Sorting), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [p#ython-quickSort.ipynb](/docs/python-quicksort.ipynb)
 #*[Lab6](docs/lab6.pdf) (selection)
