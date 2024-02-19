@@ -15,11 +15,11 @@ We have a wonderful group of LAs this semester: Luke Shaw, Narmer Bazile,  Ziyou
 
 Assignment socials/study sessions 
 
-| Sundays      |                              |
-| Mondays      |  7-9pm | Narmer, Searles 224 |
+| Sundays      |  3-5pm |   Narmer, Searles 224 | 
+| Mondays      |     | 
 | Tuesdays     |  7-9pm |  Ziyou, Searles 224 |
 | Wednesdays   |  7-9pm | Ziyou, Searles 224  |
-| Thursdays    |  2-3:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
+| Thursdays    |  1-2:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
 | Fridays      |    |
 | Saturdays    |    |
 
