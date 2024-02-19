@@ -67,7 +67,7 @@ Objectives:
 * Using the heap as a tool to solve new problems 
 
 __Resources:__     
-* __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf),  [slides-heaps.pdf](../docs/slides-heaps.pdf) ; [slides-quicksort.pdf](../docs/slides-quicksort.pdf)
+* __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf)  
 * __Lab:__   [Lab4](../docs/lab4.pdf)   
 
  ***
