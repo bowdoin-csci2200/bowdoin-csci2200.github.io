@@ -13,6 +13,7 @@ We have a wonderful group of LAs this semester: Luke Shaw, Narmer Bazile,  Ziyou
 
 | ![](staff/luke.jpg) | ![](staff/narmer.png) | ![](staff/ziyou.jpg) | ![](staff/majercik.png) |
 
+Assignment socials/study sessions 
 
 | Sundays      |                              |
 | Mondays      |  7-9pm | Narmer, Searles 224 |
