@@ -62,8 +62,8 @@ __Resources:__
 
 Objectives:
 * Lomuto partition, Quicksort, Randomized-Quicksort and analysis
-* Min/max-binary heap  and operations   (deleteMin/Max, insert, heapify, buildheap) along with  analysis 
-* Heapsort works in place 
+* Min/max-binary heap  and operations   (deleteMin/Max, insert, heapifyDown, buildheap) along with  analysis 
+* Heapsort  in place 
 * Using the heap as a tool to solve new problems 
 
 __Resources:__     
