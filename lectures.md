@@ -86,7 +86,7 @@ __Resources:__
  ***
 
    * Exam1 in class
-   * Resources: [Exam1 review](../docs/exam1-studyGuide.pdf) and practice problems 
+   * Resources: [Exam1 review](../docs/exam1-studyGuide.pdf) and some practice problems 
 
  ***
 
@@ -158,8 +158,7 @@ __Resources:__
 ***
 
 * Exam 2 in class
-
-* __Resources:__ [exam2-review](../docs/LN-techniques-review.pdf)
+* __Resources:__ [exam2-review](../docs/LN-techniques-review.pdf) and some (more) practice problems 
 
 
 ***
