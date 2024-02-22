@@ -99,20 +99,18 @@ write your work carefully.
 ### Time Commitment
 
 This is a core CS class and will demand a significant time commitment
-in order to achieve the learning goals. The actual time will vary from
+in order to achieve the learning goals. The time you will spend on this class will vary from
 week to week as some topics (esp towards the middle of the semester)
-will be harder and may take more hours. The time will put will also vary base don yoru background and interests.
+will be harder and may take more hours. It will also vary based on your background and interests.
 If you find that you struggle with discrete math
 (e.g. logarithms, exponents, etc) you will need to allocate more time
-to practice these concepts --- hang in there, you just need more
-practice. If you finish faster, use the time to work on the challenge
-problems provided each week.
+to practice these concepts --- hang in there, and practice; it will get easier. If you finish faster, use the time to work on the challenge problems provided with each lab, and check out resources online such as algorithms classes at other institutions, and sites like LeetCode or similar.
 
 
 ### What you can expect from me
 
 My goal is to teach a class which is similar to algorithms classes at
-peer institutions. Many of the problems in labs and assignments come from  Stanford, MIT, Berkeley, etc.  
+peer institutions. Many of the problems in labs and assignments come from  Stanford,Berkeley,  MIT, UIUC, etc.  
 
 My teaching style is to create a friendly, open atmosphere where
 everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps me and the class  ----questions are a sign that you want to engage and will help me keep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly
@@ -142,7 +140,7 @@ abstractions. Working on an algorithms assignment will seem easier than working 
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that is correct and efficient, and justifying that it is correct. And doing so on paper, without implementing it. That's the beauty of theory.
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that _actually works_, and justifying that it works. And doing so on paper, without implementing it. That's the beauty of theory.
 
 
 ### Tips for doing well 

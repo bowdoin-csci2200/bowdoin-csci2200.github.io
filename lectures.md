@@ -85,7 +85,9 @@ __Resources:__
           
  ***
 
-
+   * Exam1 in class
+   * Resources: [Exam1 review](../docs/exam1-exam1-studyGuide.pdf) and practice problems 
+ ***
 
 
 ### Week 6: Selection. 
@@ -101,9 +103,6 @@ __Resources:__
 
 ***
  
-   *   Exam1 in class
-  
- ***
 
 What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some techniques that come up frequently.  
 
