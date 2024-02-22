@@ -86,7 +86,8 @@ __Resources:__
  ***
 
    * Exam1 in class
-   * Resources: [Exam1 review](../docs/exam1-exam1-studyGuide.pdf) and practice problems 
+   * Resources: [Exam1 review](../docs/exam1-studyGuide.pdf) and practice problems 
+
  ***
 
 
