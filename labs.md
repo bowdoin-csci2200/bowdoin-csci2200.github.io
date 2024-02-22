@@ -14,7 +14,7 @@ useful (or not) be sure to let me know how you feel so that we can adjust.
 * [Lab 2](docs/lab2.pdf) (Asymptotics) 
 * [Lab 3](docs/lab3.pdf) (Recurrences)
 * [Lab 4](docs/lab4.pdf) (Heaps, heapsort and quicksort)
-* [Lab 5](docs/lab5.pdf) (Sorting lower bound, counting sort, and Sorting in practice), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)
+* [Lab 5](docs/lab5.pdf) (Sorting lower bound, counting sort, and sorting in practice), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)
 
 <!---
 #*[Lab6](docs/lab6.pdf) (selection)
