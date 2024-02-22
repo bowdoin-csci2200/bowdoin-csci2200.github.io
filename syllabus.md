@@ -140,7 +140,7 @@ abstractions. Working on an algorithms assignment will seem easier than working 
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that is correct and efficient, and justifying that it is correct. And doing so on paper, without implementing it. That's the beauty of theory.
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that _actually works_, and justifying that it works. And doing so on paper, without implementing it. That's the beauty of theory.
 
 
 ### Tips for doing well 
