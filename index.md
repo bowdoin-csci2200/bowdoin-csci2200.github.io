@@ -11,8 +11,7 @@ This Github site hosts all _public_ resources for this class.  In addition
 we'll use:
 
 * __Canvas__: The class has a _Canvas_ site, accessible through your
-  Bowdoin portal, that hosts the _private_ resources 
-  (quizzes, grades, etc).
+  Bowdoin portal, that hosts the practice quizzes and  grades. 
 
 * __Gradescope__: We'll use Gradescope for the assignments. Gradescope
   helps streamline the process of submission, grading and returning
