@@ -96,7 +96,7 @@ __Resources:__
 __Objectives:__ 
 * The selection problem
 * Quick-Select in expected O(n) time 
-* An elegant and ingenious algorithm for selection that runs in O(n) worst-case.
+* An elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Resources:__
   * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
@@ -105,7 +105,7 @@ __Resources:__
 ***
  
 
-What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some techniques that come up frequently: divide-and-conquer, dynamic programming and greedy.  
+What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some general techniques that come up frequently: divide-and-conquer, dynamic programming and greedy.  
 
 ### Week 7: Divide-and-conquer
 
