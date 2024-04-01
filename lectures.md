@@ -133,10 +133,10 @@ Objectives:
 * Using the DP paradigm to solve **new** problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
+* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-board.pdf](../docs/LN-board.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
 * In class problems: [knapsack](../docs/week10-problem1.pdf), [pharmacist](../docs/week10-problem2.pdf)
 * __Lab:__   [Lab8](../docs/lab8.pdf) ,  [Lab9](../docs/lab9.pdf)
-*  Code: [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java), [fib.py](../docs/fib.py), [board.py](../docs/board.py), [houserobber.py](../docs/houserobber.py), [rodcutting.ipynb](../docs/python-RodCutting.ipynb),
+*  Code: [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java), [fib.py](../docs/fib.py), [board.py](../docs/board.py), [houserobber.py](../docs/houserobber.py), [houserobber.ipynb](../docs/python-houserobber.ipynb), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
 *  Optional: The longest-common-subsequence  problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
 
   
