@@ -118,7 +118,7 @@ Objectives:
 
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](../docs/LN-divideAndConquer.pdf)
-   * __Lab:__   [Lab7](../docs/lab7.pdf)
+   * __Lab:__   [Lab7](../docs/lab7.pdf), [karatsuba.ipynb](../docs/python-karatsuba.ipynb)
           
 ***
  
@@ -130,13 +130,14 @@ Objectives:
 * The dynamic programming  technique
 * Examples: Fibonacci, board game, rod cutting and knapsack
 * Justification of correctness via optimal substructure, and analysis
-* Using DP to solve new problems 
+* Using the DP paradigm to solve **new** problems 
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
-* In class problems: [P1](../docs/week10-problem1.pdf), [P2](../docs/week10-problem2.pdf)
- * __Lab:__   [Lab8](../docs/lab8.pdf) , [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java)  [Lab9](../docs/lab9.pdf), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)  
-*  Optional resources: The LCS problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
+* In class problems: [knapsack](../docs/week10-problem1.pdf), [pharmacist](../docs/week10-problem2.pdf)
+* __Lab:__   [Lab8](../docs/lab8.pdf) ,  [Lab9](../docs/lab9.pdf), 
+*  Code: [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java), [fib.py](../docs/fib.py), [board.py](../docs/board.py), [houserobber.py](../docs/houserobber.py), [rodcutting.ipynb](../docs/python-RodCutting.ipynb),
+*  Optional: The longest-common-subsequence  problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
 
   
  ***
