@@ -24,6 +24,5 @@ useful (or not) be sure to let me know how you feel so that we can adjust.
 * [Lab12](docs/lab12.pdf) (more graphs)
 * [Lab13](docs/lab13.pdf) (shortest paths)
 
-<!---
-#*[Lab14](docs/lab14.pdf) (minimum spanning trees)
---->
+skipped: 
+* [Lab14](docs/lab14.pdf) (minimum spanning trees)
