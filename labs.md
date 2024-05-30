@@ -18,12 +18,12 @@ useful (or not) be sure to let me know how you feel so that we can adjust.
 * [Lab6](docs/lab6.pdf) (selection)
 * [Lab7](docs/lab7.pdf) (divide-and-conquer), [python-karatsuba.ipynb](docs/python-Karatsuba.ipynb)
 * [Lab8](docs/lab8.pdf) (dynamic programming)
+* [Lab9](docs/lab9.pdf) (dynamic programming)
+* [Lab10](docs/lab10.pdf) (greedy)
+* [Lab11](docs/lab11.pdf) (graphs basics)
+* [Lab12](docs/lab12.pdf) (more graphs)
+* [Lab13](docs/lab13.pdf) (shortest paths)
 
 <!---
-#*[Lab9](docs/lab9.pdf) (dynamic programming)
-#*[Lab10](docs/lab10.pdf) (greedy)
-#*[Lab11](docs/lab11.pdf) (graphs basics)
-#*[Lab12](docs/lab12.pdf) (more graphs basics)
-#*[Lab13](docs/lab13.pdf) (shortest paths)
 #*[Lab14](docs/lab14.pdf) (minimum spanning trees)
 --->
