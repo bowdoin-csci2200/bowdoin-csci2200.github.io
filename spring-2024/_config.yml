@@ -75,7 +75,7 @@ aux_links:
   "Gradescope":
     - "https://www.gradescope.com/courses/"
   "Slack": 
-    - "https://bowdoin-csci2200.slack.com"
+    - "https://algorithms-spring2024.slack.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
