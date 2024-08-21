@@ -10,7 +10,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 **Lab Expectations:** The labs are there to help you learn, not to test you.  It is ok (and expected!) that you will have (lots of) questions.  We'll be around to talk to you.  As you work through the lab problems, work  with your group,  discuss your ideas, formulate questions and engage with the TAs and the instructor(s) to get your questions answered. It is important that you work thoroughly through all the problems, and that you are proactive when you don't understand something ---  we (the instructors and LAs) will be around to help. 
 
-**Writing the labs:** Write down your solutions to the lab using your ipad and save it as a pdf document. The solutions can be quick/short but try to keep them moderately neat and make sure they are legible.  
+**Writing the labs:** Write down your solutions using your ipad and save it as a pdf document. The solutions can be quick/short but try to keep them moderately neat and make sure they are legible.  
 
 **Submitting the labs:**   You need to submit every lab by the end of the lab period (for Fall 2024: by 2pm on Fridays), on Gradescope. The labs will be loosely graded (see rubric below) and returned to you by Mondays. The grade on the lab will give you quick feedback on how you are doing. 
 
