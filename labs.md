@@ -26,17 +26,17 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 |Week and topic | Lab | Code | Due (submit in Gradescope)| 
 |-------------|-------------|
-| Week 1 (warmup and quadratic sorts)| [Lab 1](docs/lab-week1.pdf) | [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)| Friday 9/6 by 2pm  | 
+| Week 1 (warmup and quadratic sorts)| [Lab 1](docs/lab-week1.pdf) | [python-warmup.ipynb](docs/python-warmup.ipynb); [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)| Friday 9/6 by 2pm  | 
 | Week 2  (Asymptotics and summations) | [Lab 2](docs/lab-week2.pdf)  | | Friday 9/13 by 2pm  | 
 | Week 3 (Mergesort and recurrences)| [Lab 3](docs/lab-week3.pdf)  | | Friday 9/20 by 2pm  | 
-| Week 4 (Heaps, heapsort and quicksort)| [Lab 4](docs/lab-week4.pdf) | [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](/docs/python-quicksort.ipynb)|  Friday 9/27 by 2pm  | 
+| Week 4 (Heaps, heapsort and quicksort)| [Lab 4](docs/lab-week4.pdf) | [python-mergeSort.ipynb](docs/python-mergesort.ipynb);  [python-quickSort.ipynb](/docs/python-quicksort.ipynb)|  Friday 9/27 by 2pm  | 
 | Week 5 (Sorting lower bound, counting sort, and Quick-Select) | [Lab 5](docs/lab-week5.pdf) | | Friday 10/4 by 2pm  | 
-| Week 6 (review and exam1 ) | no lab this week | | EXAM 1 on Friday 10/11 | 
+| Week 6 (review and exam1 ) | no lab this week | | __Friday 10/11: EXAM 1__ | 
 | Week 7 (Selection; divide-and-conquer and Karatsuba's algorithm)| [Lab 7](docs/lab-week7.pdf) | [python-karatsuba.ipynb](docs/python-Karatsuba.ipynb)| Friday 10/18 by 2pm  | 
-| Week 8 (dynamic programming)| (docs/lab-week8.pdf) | | Friday 10/25 by 2pm  | 
-| Week 9 (dynamic programming)| (docs/lab-week9.pdf) | | Friday 11/1 by 2pm  | 
+| Week 8 (dynamic programming)| [Lab 8](docs/lab-week8.pdf) | | Friday 10/25 by 2pm  | 
+| Week 9 (dynamic programming)| [Lab 9](docs/lab-week9.pdf) | | Friday 11/1 by 2pm  | 
 | Week 10  (greedy) | [Lab 10](docs/lab-week10.pdf) | | Friday 11/8 by 2pm  | 
-| Week 11 (graph basics and BFS| [Lab 11](docs/lab-week11.pdf)   | | EXAM 2 on Friday 11/15| 
+| Week 11 (graph basics and BFS| [Lab 11](docs/lab-week11.pdf)   | | __Friday 11/15: EXAM 2__| 
 | Week 12 (DFS, topological order and SP on DAGs)| [Lab 12](docs/lab-week12.pdf) | | Friday 11/22 by 2pm  | 
 | Week 13 (Dijkstra and Bellman-Ford) | [Lab 13](docs/lab-week13.pdf) | | Friday 12/6 by 2pm  | 
 | Week 14 (Minimum spanning tree) | [Lab 14](docs/lab-week14.pdf)  | | Monday 12/9 by 2pm  | 
