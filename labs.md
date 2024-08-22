@@ -25,24 +25,24 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 
 |Week | Topic | Lab |  Due ( in Gradescope)| 
-|-----|----------------|-------|---------------| 
+|-----|----------------|-----|-----------------| 
 | Week 1| Warmup and quadratic sorts| [Lab 1](docs/lab-week1.pdf) | Friday 9/6 by 2pm  | 
 | Week 2 | Asymptotics and summations | [Lab 2](docs/lab-week2.pdf)  | Friday 9/13 by 2pm  | 
 | Week 3 | Mergesort and recurrences| [Lab 3](docs/lab-week3.pdf)  | Friday 9/20 by 2pm  | 
 | Week 4 | Heaps, heapsort and quicksort| [Lab 4](docs/lab-week4.pdf) | Friday 9/27 by 2pm  | 
 | Week 5 | Sorting lower bound, counting sort, and Quick-Select |  tbd| Friday 10/4 by 2pm  | 
 | Week 6 | Review and exam1  | no lab  |  __EXAM 1 on Friday 10/11__ | 
-| Week 7 | Selection. Divide-and-conquer and Karatsuba's algorithm|  tbd| Friday 10/18 by 2pm  | 
-| Week 8 | Dynamic programming| tbd | Friday 10/25 by 2pm  | 
-| Week 9 | Dynamic programming| tbd| Friday 11/1 by 2pm  | 
-| Week 10 | Greedy algorithms| tbd | Friday 11/8 by 2pm  | 
+| Week 7 | Selection. Divide-and-conquer and Karatsuba's algorithm|  | Friday 10/18 by 2pm  | 
+| Week 8 | Dynamic programming|  | Friday 10/25 by 2pm  | 
+| Week 9 | Dynamic programming| | Friday 11/1 by 2pm  | 
+| Week 10 | Greedy algorithms|  | Friday 11/8 by 2pm  | 
 | Week 11 | Graph basics and BFS| no lab  |  __EXAM 2 on Friday 11/15__| 
-| Week 12 | DFS, topological order and shortest paths on DAGs| tbd | Friday 11/22 by 2pm  | 
+| Week 12 | DFS, topological order and shortest paths on DAGs|  | Friday 11/22 by 2pm  | 
 
-|   _THANKSGIVING BREAK_ | _eat, sleep, relax_|  
+|   | _THANKSGIVING BREAK_ | _eat, sleep, relax_|  |
 
-| Week 13 | Dijkstra and Bellman-Ford | tbd | Friday 12/6 by 2pm  | 
-| Week 14  | Minimum spanning tree |  tbd | Monday 12/9 by 2pm  | 
+| Week 13 | Dijkstra and Bellman-Ford |  | Friday 12/6 by 2pm  | 
+| Week 14  | Minimum spanning tree |   | Monday 12/9 by 2pm  | 
 
 
    
