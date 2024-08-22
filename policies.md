@@ -26,7 +26,7 @@ There are lots of resources online, such as lecture notes, animations, visualiza
 
 
 
-### Assignment Partner Policy
+### Assignment partner policy
 
 All assignments are partner-optional, that is, you may work with **one** partner (teams of at most
 2 people). You can have the same partner for all assignments, or you
