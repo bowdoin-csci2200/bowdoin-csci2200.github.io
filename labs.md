@@ -31,12 +31,12 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 | Week 3 | Mergesort and recurrences| [Lab 3](docs/lab-week3.pdf)  | Friday 9/20 by 2pm  | 
 | Week 4 | Heaps, heapsort and quicksort| [Lab 4](docs/lab-week4.pdf) | Friday 9/27 by 2pm  | 
 | Week 5 | Sorting lower bound and counting sort. Quick-Select |  | Friday 10/4 by 2pm  | 
-| Week 6 | Review and exam1  | no lab  |  EXAM 1 on Friday 10/11 | 
+| Week 6 | Review and exam1  | no lab  |  Exam 1 on Friday 10/11 | 
 | Week 7 | Selection. Divide-and-conquer and Karatsuba's algorithm|  | Friday 10/18 by 2pm  | 
 | Week 8 | Dynamic programming|  | Friday 10/25 by 2pm  | 
 | Week 9 | Dynamic programming| | Friday 11/1 by 2pm  | 
 | Week 10 | Greedy algorithms|  | Friday 11/8 by 2pm  | 
-| Week 11 | Graph basics and BFS| no lab  |  EXAM 2 on Friday 11/15| 
+| Week 11 | Graph basics and BFS| no lab  |  Exam 2  on Friday 11/15| 
 | Week 12 | DFS, topological order and shortest paths on DAGs|  | Friday 11/22 by 2pm  | 
 | | _THANKSGIVING BREAK_ | _eat, sleep, relax_| |
 | Week 13 | Shortest paths, Dijkstra and Bellman-Ford's algorithms |  | Friday 12/6 by 2pm  | 
