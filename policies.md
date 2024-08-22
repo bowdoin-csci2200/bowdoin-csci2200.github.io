@@ -46,7 +46,7 @@ Please familiarize yourself with the late policies of this course so that you ca
 
 * __Assignment late policy:__ Assignments will be posted with a **due date** and a **late due date** which will usually be 3 days after the due date (exceptions will be made to accomodate exams, breaks, last day of classes, etc).  Assignments submitted past the  due date will be marked LATE by Gradescope and will incur a penalty of .4% per hour (9.6% per day), which will be automatically applied at the end of the semester. Assignment submission will close after the assignment's late due date, and you will not be able to submit the assignment after that.  
 
-Note that late assignments are accepted with a small and fair hourly penalty as stated above. You do not need to email us asking  permission to submit an assignment late. Gradescope will accept your assignment until its  _late due date_. 
+Note that late assignments are accepted with a small  hourly penalty as stated above. You do not need to email us asking  permission to submit an assignment late. Gradescope will accept your assignment until the  _late due date_. 
 
 
 <!---
@@ -71,8 +71,7 @@ Most topics build directly on prior topics, so it is critical not to fall behind
 #### Sickness and Emergencies
 
 Exceptions to the late policy will be made in case of significant circumstances (such as you are sick, concussion, family situations, etc). 
-We are very understanding of special circumstances and will work with you to accomodate whatever special situation you are going though.  
-__If such a situation arises please let your instructor know as soon as possible and we will make a plan together.__
+We are very understanding of special circumstances and will work with you to accomodate whatever special situation you are going though. __If such a situation arises please let your instructor know as soon as possible and we will make a plan together.__
 
 Note that the circumstances have to be _special_ and significant:  for e.g. taking two classes with homework deadlines the same day, or traveling for athletics events or hackathons, do not count as an emergency.   
 
