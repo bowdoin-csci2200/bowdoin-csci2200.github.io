@@ -4,7 +4,7 @@ title: Syllabus
 nav_order: 2
 ---
 
-# CSCI 2200 Algorithms Fall 2024: Syllabus 
+## CSCI 2200 Algorithms Fall 2024: Syllabus 
 
 In Fall 2024 we are running two sections of the class which will join for the lectures and will have separate labs. Prof. Cibele and Laura will co-teach. 
 
