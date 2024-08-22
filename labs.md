@@ -25,7 +25,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 
 |Week | Topic | Lab |  Due ( in Gradescope)| 
-|-----|----------------|-------------|---------------| 
+|-----|----------------|-------|---------------| 
 | Week 1| Warmup and quadratic sorts| [Lab 1](docs/lab-week1.pdf) | Friday 9/6 by 2pm  | 
 | Week 2 | Asymptotics and summations | [Lab 2](docs/lab-week2.pdf)  | Friday 9/13 by 2pm  | 
 | Week 3 | Mergesort and recurrences| [Lab 3](docs/lab-week3.pdf)  | Friday 9/20 by 2pm  | 
@@ -39,7 +39,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 | Week 11 | Graph basics and BFS| no lab  |  __EXAM 2 on Friday 11/15__| 
 | Week 12 | DFS, topological order and shortest paths on DAGs| tbd | Friday 11/22 by 2pm  | 
 
-| |  _THANKSGIVING BREAK_ | _eat, sleep, relax_|  
+|   _THANKSGIVING BREAK_ | _eat, sleep, relax_|  
 
 | Week 13 | Dijkstra and Bellman-Ford | tbd | Friday 12/6 by 2pm  | 
 | Week 14  | Minimum spanning tree |  tbd | Monday 12/9 by 2pm  | 
