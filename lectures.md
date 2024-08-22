@@ -5,11 +5,11 @@ nav_order: 3
 ---
 
 
-## Detailed schedule (SPRING 2024)
+## Detailed schedule (Fall 2024)
 
 
-### Week 1: Warmup (bubble sort, insertion sort, selection sort) and analysis.
 
+### Warmup (bubble sort, insertion sort, selection sort) and analysis.
 
 Objectives: 
   *  Review searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and their analysis
@@ -17,14 +17,11 @@ Objectives:
 
 __Resources:__     
   * __Notes:__ [LN-warmup.pdf](../docs/LN-warmup.pdf)     
-  *  __Lab:__   [Lab 1](../docs/lab1.pdf), [python-warmup.ipynb](../docs/python-warmup.ipynb), [python-insertionSort.ipynb](../docs/python-insertionSort.ipynb)
-  
+  *  Code: [python-warmup.ipynb](../docs/python-warmup.ipynb), [python-insertionSort.ipynb](../docs/python-insertionSort.ipynb)
  ***
  
  
- 
-### Week 2: Asymptotic Notation and Summations
-
+### Asymptotic Notation and Summations
 
 Objectives:
 * Relevance of analysis in practice, as well as its assumptions and limitations
@@ -36,15 +33,14 @@ Objectives:
 * Arithmetic and geometric summations and their Θ() bounds 
 * Recognizing arithmetic and geometric summations in different forms
 
-
 __Resources:__    
-  * __Notes:__ [LN-asymptoticNotation.pdf](../docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](../docs/LN-summations.pdf), [quiz2-practice.pdf](../docs/quiz2-practice.pdf)
-  * __Lab:__   [Lab2](../docs/lab2.pdf) 
-  
+  * __Notes:__ [LN-asymptoticNotation.pdf](../docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](../docs/LN-summations.pdf)
+  * [quiz-practice.pdf](../docs/quiz2-practice.pdf)
+    
 ***
       
    
-### Week 3: Mergesort and Recurrences
+### Mergesort and Recurrences
 
 Objectives: 
 * Mergesort: how it works, why it works, and its running time analysis
@@ -54,11 +50,11 @@ Objectives:
 
 __Resources:__    
   * __Notes:__ [LN-recurrences.pdf](../docs/LN-recurrences.pdf), [quiz3-practice.pdf](../docs/quiz3-practice.pdf)
-   * __Lab:__   [Lab3](../docs/lab3.pdf) 
-   
+  * Code: [python-mergeSort.ipynb](../docs/python-mergesort.ipynb)  
  ***
 
-### Week 4: Quicksort and Heapsort 
+
+### Quicksort and Heapsort 
 
 Objectives:
 * Lomuto partition, Quicksort, Randomized-Quicksort and analysis
@@ -68,12 +64,11 @@ Objectives:
 
 __Resources:__     
 * __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf)  
-* __Lab:__   [Lab4](../docs/lab4.pdf)   
-
+* Code: [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
  ***
   
   
-### Week 5: Sorting lower bound. Sorting without comparisons. 
+### WSorting lower bound. Sorting without comparisons
 
 Objectives: 
 * Can a sorting algorithm do better than Θ(n lg n) in the worst-case? Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
@@ -81,17 +76,10 @@ Objectives:
 
 __Resources:__     
   * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
- * __Lab:__  [Lab5](../docs/lab5.pdf),  [python-mergeSort.ipynb](../docs/python-mergesort.ipynb), [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
-          
- ***
-
-   * Exam1 in class
-   * Resources: [Exam1 review](../docs/exam1-studyGuide.pdf) and some practice problems 
-
- ***
+***
 
 
-### Week 6: Selection. 
+### Selection
 
 __Objectives:__ 
 * The selection problem
@@ -100,14 +88,12 @@ __Objectives:__
 
 __Resources:__
   * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
-  * __Lab:__   [Lab6](../docs/lab6.pdf) 
-
-***
+ ***
  
 
 What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some general techniques that come up frequently: divide-and-conquer, dynamic programming and greedy.  
 
-### Week 7: Divide-and-conquer
+### Techniques: Divide-and-conquer
 
 
 Objectives: 
@@ -118,13 +104,10 @@ Objectives:
 
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](../docs/LN-divideAndConquer.pdf)
-   * __Lab:__   [Lab7](../docs/lab7.pdf), [karatsuba.ipynb](../docs/python-Karatsuba.ipynb)
-          
+  * Code: [karatsuba.ipynb](../docs/python-Karatsuba.ipynb)
 ***
  
-
-### Week 8, 9: Dynamic Programming 
-
+### Techniques: Dynamic Programming 
 
 Objectives:
 * The dynamic programming  technique
@@ -133,40 +116,26 @@ Objectives:
 * Using the DP paradigm to solve **new** problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-board.pdf](../docs/LN-board.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
+* __Notes:__ [LN-dynprog.pdf](../docs/LN-dynprog.pdf), [LN-board.pdf](../docs/LN-board.pdf), [LN-rod.pdf](../docs/LN-rod.pdf), [rod-summary.pdf](../docs/summary-rod.pdf), [LN-knapsack.pdf](../docs/LN-knapsack.pdf), [knapsack-summary.pdf](../docs/summary-knapsack.pdf)
 * In class problems: [knapsack](../docs/week10-problem1.pdf), [pharmacist](../docs/week10-problem2.pdf)
-* __Lab:__   [Lab8](../docs/lab8.pdf) ,  [Lab9](../docs/lab9.pdf)
 *  Code: [Fibonacci.ipynb](../docs/python-Fibonacci.ipynb), [Fib.java](../docs/Fib.java), [fib.py](../docs/fib.py), [board.py](../docs/board.py), [houserobber.py](../docs/houserobber.py), [houserobber.ipynb](../docs/python-houserobber.ipynb), [rodcutting.ipynb](../docs/python-RodCutting.ipynb)
 *  Optional: The longest-common-subsequence  problem:  [LN-lcs.pdf](../docs/LN-lcs.pdf),  [lcs.ipynb](../docs/python-LCS.ipynb), [summary-lcs.pdf](../docs/summary-lcs.pdf)
 
-  
- ***
+***
  
- 
- 
-### Week 10:The Greedy technique.  
-
+### The Greedy technique.  
 
 Objectives:
 * The greedy technique  via the activity selection, including the correctness justification
 * Using the greedy technique to solve new problems
   
 __Resources:__
-* __Lecture notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf)
-* __Lab:__   [Lab10](../docs/lab10.pdf) 
-
-
-***
-
-* Exam 2 in class
-* __Resources:__ [exam2-review](../docs/LN-techniques-review.pdf) and some (more) practice problems 
-
+* __Notes:__ [LN-greedy.pdf](../docs/LN-greedy.pdf)
 
 ***
  
  
- 
-### Week 11, 12:    Graphs Basics. BFS and DFS and their applications.  Topological order. Dynamic programming on DAGs. 
+### Graphs Basics. BFS and DFS and their applications.  Topological order. 
 
 
 Objectives:
@@ -177,22 +146,15 @@ Objectives:
 * Dynamic programming on DAGs
 
 __Resources:__
-*  __Lecture notes__: [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf) 
-*  __Lab:__   [Lab11](../docs/lab11.pdf),   [Lab12](../docs/lab12.pdf)
-  
- ***
+*  __Notes__: [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf) 
+***
 
   
-### Week  13:  Shortest paths on DAGs,  Dijkstra and  Bellman-Ford. 
+### Shortest paths: Shortest paths on DAGs.  Dijkstra's and  Bellman-Ford's algorithms. 
 
-We discuss shortest paths on graphs and see some of the nicest
-algorithms in computer science: Dijkstra's and Bellman-Ford's
-algorithms. While describing them we try to understand some common
-principles that guided their design. We'll see that Bellman-Ford's
-algorithm uses dynamic programming and Dijkstra's is a greedy
-algorithm, making these nice applications of the techniques we studied
+We discuss shortest paths on graphs and see some of the nicest algorithms in computer science: Dijkstra's and Bellman-Ford's algorithms. While describing them we try to understand some common principles that guided their design. We'll see that Bellman-Ford's
+algorithm uses dynamic programming and Dijkstra's is a greedy algorithm, making these nice applications of the techniques we studied
 earlier in the semester.
-
 
 Objectives:
 * Shortest paths (SP) on DAgs via dynamic programming
@@ -202,13 +164,11 @@ Objectives:
 * Finding negative cycles 
 
 __Resources:__
-*  __Lecture notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf)
-*  __Lab:__   [Lab13](../docs/lab13.pdf)
-  
- ***
+*  __Notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf)
+***
 
  
-### Week 14: The Minimum Spanning Tree (MST) 
+### The Minimum Spanning Tree (MST) 
 
 Another fundamental problem on graphs is computing a MST. We discuss
 some properties of MSTs which will get us intuition for how to
@@ -222,15 +182,15 @@ Objectives:
 * Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-*  __Lecture notes__:  [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf)
-*  __Lab:__    [Lab14](../docs/lab14.pdf) 
-* Also, a quick review and some extra fun problems!  [LN-review.pdf](../docs/LN-review.pdf)
-
- 
+*  __Notes__:  [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf)
 ***
 
-### Exam 3
+### Final review and some extra fun problems!
 
-[final exam slot as posted in Polaris]
+* Notes: [LN-review.pdf](../docs/LN-review.pdf)
+
+ 
+
+
 
 
