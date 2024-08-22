@@ -4,7 +4,7 @@ title: Useful links
 nav_order: 10
 ---
 
-## Resources 
+## Other resources and useful links 
 
 
 __Textbook:__ The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. 
@@ -13,8 +13,6 @@ If you want to dive deeper into proofs and the mathematics of computer science, 
 
 - [Building blocks for theoretical computer science](http://mfleck.cs.illinois.edu/building-blocks/) by Margaret Fleck
 - [Mathematics for Computer science](http://opendatastructures.org/LLM.pdf)by Lehman, Leighton and Meyer
-
-There are lots of resources online, such as  videos, animations, visualizations, practice problems and solutions, which you are allowed to explore if you feel they help you understand the material. However, you must be careful __not to search the internet or use generative AI (such as ChatGPT) to learn about the specific problems in the quizzes, labs and assignments__.  Doing so consitutes violation of academic honesty for this class (see policies for more details).  
 
 
 Below is a list of resources  (by no means exhaustive) which I highly recommend. 
@@ -30,3 +28,4 @@ Below is a list of resources  (by no means exhaustive) which I highly recommend.
   *  Steven Skienna's [class](https://www3.cs.stonybrook.edu/~skiena/373/videos/) which includes lectures and video recordings
   *  Williams College [Algorithms](https://williams-cs.github.io/cs256-s21-www/index.html)
   
+
