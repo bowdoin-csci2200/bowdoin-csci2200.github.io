@@ -36,7 +36,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 | Week 8 | Dynamic programming|  | Friday 10/25 by 2pm  | 
 | Week 9 | Dynamic programming|  | Friday 11/1 by 2pm  | 
 | Week 10 | Greedy algorithms|  | Friday 11/8 by 2pm  | 
-| Week 11 | Graph basics and BFS|   |  __EXAM 2 on Friday 11/15__| 
+| Week 11 | Graph basics and BFS| no lab  |  __EXAM 2 on Friday 11/15__| 
 | Week 12 | DFS, topological order and shortest paths on DAGs| | Friday 11/22 by 2pm  | 
 |  | _THANKSGIVING BREAK_ | _eat, sleep, relax_|  | 
 | Week 13 | Dijkstra and Bellman-Ford |  | Friday 12/6 by 2pm  | 
