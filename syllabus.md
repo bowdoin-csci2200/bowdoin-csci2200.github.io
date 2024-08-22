@@ -8,9 +8,6 @@ nav_order: 2
 
 In Fall 2024 we are running two sections of the class which will join for the lectures and will have separate labs. Prof. Cibele and Laura will co-teach. 
 
-* Lectures:  MW 10:05-11:30 (both section A and B) 
-* Lab A: F 10:05-11:30 
-* Lab B: F 11:40-1:05
 
 |:---------------------|:--------------------|    
 |__Instructors:__ | Cibele Freire (office: Searles 121) and Laura Toma (office: Searles 219) |
