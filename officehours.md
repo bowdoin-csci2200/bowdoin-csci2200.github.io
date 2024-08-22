@@ -7,26 +7,33 @@ nav_order: 5
 
 ## Staff and office hours 
 
+In Fall 2024 we are running two sections of the class and we are experimenting with a new format: the sections will join for the lectures and will have separate labs. 
+
+* Lectures:  MW 10:05-11:30 (both section A and B) 
+* Lab A: F 10:05-11:30 
+* Lab B: F 11:40-1:05
+
+Instructors: Cibele Freire and Laura Toma 
+
+We have a wonderful group of LAs this semester who are all excited to be part of the team: Rafael Almeida, Nolan Bessire, Addison Davis	, Victoria Figueroa, Yassine Khayati	,  Vaishali Miriyagalla,  Sebastian Sanchez	and Luke Shaw. If enthusiasm for learning is large, we may be able to convince Professor Majercik to join us, as he has in the past. 
+	
+| ![](staff/rafael.jpg) | ![](staff/nolan.jpg)  | ![](staff/addison.jpg) | ![](staff/victoria.jpg) | ![](staff/yassine.jpg)   ![](staff/vaishali.jpg) | ![](staff/sebastian.jpg) | ![](staff/luke.jpg)  | ![](staff/majercik.png) |
 
 
-We have a wonderful group of LAs this semester: Luke Shaw, Narmer Bazile,  Ziyou Hu and Prof. Majercik! 
+LAs office hours: 
 
-| ![](staff/luke.jpg) | ![](staff/narmer.png) | ![](staff/ziyou.jpg) | ![](staff/majercik.png) |
-
-Assignment socials/study sessions 
-
-| Sundays      |  3-5pm |   Narmer, Searles 224 | 
-| Mondays      |     | 
-| Tuesdays     |  7-9pm |  Ziyou, Searles 224 |
-| Wednesdays   |  7-9pm | Ziyou, Searles 224  |
-| Thursdays    |  1-2:30pm and 7-9pm | Prof. Majercik and Luke, Searles 224  |
-| Fridays      |    |
-| Saturdays    |    |
+| Sundays      |   |   | 
+| Mondays      |   |   |
+| Tuesdays     |   |   |
+| Wednesdays   |   |   |
+| Thursdays    |   |   |
+| Fridays      |   |   | 
+| Saturdays    |   |   | 
 
 
-__Laura's office hours:__ (Searles 219)
- * Tuesdays 1-3pm
- * Wednesdays 1-3pm 
+Instructors office hours:
+ * Cibele: tbd, Searles xxx
+ * Laura:  tbd, Searles 219 
 
 
 
