@@ -4,12 +4,19 @@ title: Syllabus
 nav_order: 2
 ---
 
-# Algorithms (csci 2200, Spring 2024): Syllabus 
+# Algorithms (csci 2200, Fall 2024): Syllabus 
+
+In Fall 2024 we are running two sections of the class which will join for the lectures and will have separate labs. Prof. Cibele and Laura will co-teach. 
+
+* Lectures:  MW 10:05-11:30 (both section A and B) 
+* Lab A: F 10:05-11:30 
+* Lab B: F 11:40-1:05
 
 |:---------------------|:--------------------|    
-|__Instructor:__ | Laura Toma, office: Searles 219 |
-| __Class time:__  | MW  10:05-11:30, L1 Fri 10:05-11:30, L2 Fri 11:40-1:05|
-|__Classroom:__   | MW in Searles 223, F in VAC North 304 |
+|__Instructors:__ | Cibele Freire (office: Searles 121) and Laura Toma (office: Searles 219) |
+| __Class time:__ | MW  10:05-11:30 | 
+| __Lab:__        | Lab A Fri 10:05-11:30, Lab B Fri 11:40-1:05|
+|__Classroom:__   | Searles 223 |
 
 **Prerequisites:** csci 2101 (Data Structures)
 
