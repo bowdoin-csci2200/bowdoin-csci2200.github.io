@@ -7,6 +7,15 @@ nav_order: 1
 
 # Welcome to Algorithms, Fall 2024! 
 
+
+
+|:---------------------|:--------------------|    
+|__Instructors:__ | Cibele Freire (office: Searles 121) and Laura Toma (office: Searles 219) |
+| __Class time:__ | MW  10:05-11:30 | 
+| __Lab:__        | Lab A Fri 10:05-11:30, Lab B Fri 11:40-1:05|
+|__Classroom:__   | Searles 223 |
+
+
 This Github site (https://bowdoin-csci2200.github.io) hosts the general syllabus and policies for the class, as well as the detailed schedule and lecture notes. This  will be your go-to site for the class. 
 
 We will also use:   
