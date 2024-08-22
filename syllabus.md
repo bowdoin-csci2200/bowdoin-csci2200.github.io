@@ -59,102 +59,87 @@ abstraction abilities and will be a big advantage to your career path, whatever 
 
 ### How will this class work? 
 
-* We'll meet three times a week (3 x 85 minutes)
+We have put in place a lot of resources and structure to help you learn: 
 
 * Each week, before coming to class, read the lecture notes so that
 that you understand the big ideas and results ahead of the class.
 This will make class time more effective and will allow more time for
-questions and problems.
+questions and problems. You can find the lecture notes on this site and they will also be sent via Slack. 
 
-* Every week we have a set of problems (the lab) focused on the topics
-discussed that week. Lab problems are __not graded__ and they are meant to be solved in class.  It is
-important that you strive to work through all problems, formulate
-questions, discuss with your group and get your questions answered. We will ocasionally go
-over solutions to some lab problems as a class and if you find that
-useful (or not) be sure to let me know how you feel so that we can
-adjust.
+* Weekly lab: Each week there will be a set of problems (the lab) focused on the topics
+discussed that week.  Lab problems are meant to be solved in class while working with your group and talking to the LAs and instructor.  It is important that you strive to work through all problems, formulate questions, discuss with your group and are proactive about getting your questions answered. 
 
-* Practice quizzes: In Canvas you will find a set of online quizzes. These are autograded and you can see  your results right away. You can take them as many times as you want. They are optional, and are meant to guide your learning. 
+* Weekly quiz: Each week (approximately) there will be a quiz focused on the material discussed that week, which you will take remotely on Gradescope. The quizzes are autograded and you will see  your results right away.  
 
-* There will be 8-10 assignments which  will be released in Gradescope. 
-The assignments will generally be hard and will consist of _new_ problems for which you will have to come up with solutions. 
-We expect everyone to do well on the homework, and to take the time to
-write your work carefully.
+* Weekly assignment: Each week, approximately, there will be an assignment focusing on the material learnt that week.  The assignments will generally be hard/creative and will consist of _new_ problems for which you will have to come up with solutions.  The homeworks will be heavily supported by LAs and we expect everyone will do well on the homeworks. 
 
 
-### Work and Grading Policy
+### Work and grading policy
 
-- __Assignments: 40%__ 
+- Labs: 5%
+- Quizzes: 5%
+- Assignments: 30%
+- Exams: 60%
+- Class engagement: tie breaker when your score is between two grades
 
-- __Exams: 60%__ There will be 3 in-class exams: the first one in in
-  week 6, the second one in week 10 and the last one at the end of the
-  semester (check Polaris for the final exam slot for this class).
-  The exams are non-cumulative, to the extent that it's possible. Each exam weighs 20%.
+There will be 3 in-class exams: 
+    * Exam 1: Friday 10/11 in class 
+    * Exam 2: Friday 11/15 in class
+    * Exam 3: December xx (check Polaris for the final exam slot for this class).
+The exams are non-cumulative, to the extent that it's possible. Each exam weighs 20%.
   
-- __Class engagement:__ This means attending class, working with your
-  group in the lab, asking questions, engaging in discussions,
-  volunteering answers, participating on Slack, attending office hours
-  and striving to turn in good work. Overall engagement will be used
-  as a tie breaker when your score is between two grades.
+What is class engagement? We understand that some of us are  shy/introvert and we are careful to use "engagement" in a broader sense than speaking up in class (we know that can be hard).  __Engagement means contributing to the class learning community__. 
+
+* What yo can do to help the class learning community:  attend class, work with your group,  engage in discussions, ask questions, volunteer answers, offer to write on the whiteboard,  participate on Slack, attend office hours, be respectful and inclusive of your peers, don't be loud, have a positive attitude, and generally strive to turn in good work. 
+
+* Activities that hinder the class learning community:  doing something else in class, working on a different assignment in class,  checking your messages,  dominating the discussion, not talking at all or talking too much, showing off when you finish a problem fast, not doing your readings and coming unprepared to contribute, etc. 
+
+Overall engagement will be used as a tie breaker when your score is between two grades (Note that engagement can  be used to both raise and lower your grade). 
 
 
 
+### Time commitment
 
-### Time Commitment
-
-This is a core CS class and will demand a significant time commitment
-in order to achieve the learning goals. The time you will spend on this class will vary from
-week to week as some topics (esp towards the middle of the semester)
-will be harder and may take more hours. It will also vary based on your background and interests.
-If you find that you struggle with discrete math
-(e.g. logarithms, exponents, etc) you will need to allocate more time
-to practice these concepts --- hang in there, and practice; it will get easier. If you finish faster, use the time to work on the challenge problems provided with each lab, and check out resources online such as algorithms classes at other institutions, and sites like LeetCode or similar.
+This is a core CS class and will demand a significant time commitmentin order to achieve the learning goals. The time you will spend on this class will vary from week to week as some topics (esp towards the middle of the semester) will be harder and may take more hours. It will also vary based on your background and interests.
+If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to practice these concepts --- hang in there, and practice; it will get easier. If you finish faster, use the time to work on the challenge problems provided with each lab, and check out resources online such as algorithms classes at other institutions, and sites like LeetCode or similar.
 
 
-### What you can expect from me
+### What you can expect from this class
 
-My goal is to teach a class which is similar to algorithms classes at
+Our goal is to teach a class which is similar to algorithms classes at
 peer institutions. Many of the problems in labs and assignments come from  Stanford,Berkeley,  MIT, UIUC, etc.  
 
-My teaching style is to create a friendly, open atmosphere where
-everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps me and the class  ----questions are a sign that you want to engage and will help me keep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly
-encouraged. All assignments are pair-optional, although everyone is highly
-encouraged to find a partner.  To support everyone's learning at their
-own pace I have created detailed lecture notes and an ample set of
-supporting study questions, practice problems and quizzes. Please help
-me make this class great by staying engaged and by giving me feedback
-(even if I don't ask for it)! Feedback is always welcome.
+Our teaching style is to create a friendly, open atmosphere where
+everyone feels comfortable and motivated to learn. The more questions you ask, the more that helps the class  ----questions are a sign that you want to engage and will help  keep the class interactive. The most effective learning happens when YOU all work well together.  Open collaboration in the lab is  highly encouraged. All assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their
+own pace we have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes. Please help us make this class great by staying engaged and by giving us feedback (even if we don't ask for it)! Feedback is always welcome.
 
-I know there are circumstances in our lives that we can't control. If
-you have any (significant) circumstances that make learning hard, just
-talk to me, and we will figure something out.
+We know there are circumstances in our lives that we can't control. If you have any circumstances that make learning hard, just talk to us and we will figure something out.
 
 
 ### How is this class different than other CS classes? 
 
-Coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that
-seem very similar, may have very different solutions.
+Coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.
 
 
 
 ### 2200 vs 2101
 
 Unlike csci 2101, the material in this class is theoretical and spans many levels of
-abstractions. Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (remember that debugging...). 
+abstractions. Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (remember debugging...). 
 
 * 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
 
-* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with an algorithm that _actually works_, and justifying that it works. And doing so on paper, without implementing it. That's the beauty of theory.
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that are in the right direction.  The hard part will be coming up with algorithms that _actually work_, and justifying that they work. And doing so on paper, without (or before) implementing it. That's the beauty of theory.
 
 
 ### Tips for doing well 
 
 * Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Take the labs seriously. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
 
-* Be pro-active about things that are not clear. There's a lot of
-  helpful free resources out there. Just search on the Internet
-  (really, that's ~~allowed~~ encouraged). BUT: don't search for the assignment problems (because that violates the honor code and  you won't learn much). 
+* Be pro-active about things that are not clear. There's a lot of helpful free resources out there.  BUT: don't search/google/chatGPT for the assignment problems --- that violates the honor code for the class (and you won't learn much). 
 
+* Make mistakes. Understand why an idea doesn't work, and move on. Dead ends and mistakes are crucial for learning and this is why you don't learn much if you read a solution. You learn a lot more when you struggle to it. 
+  
 * Self-reflection: Try to formulate questions, and try to answer them yourself.
 
 * Find a group of peers to work with. Explain your ideas, and listen
@@ -172,6 +157,5 @@ Solve all problems that are assigned, even those that are optional.
   yourself (we'll skip them in class).
 
 * Don't be harsh on yourself if you are not doing as well as you
-  expected. It takes time to learn, and often we learn (more) from
-  mistakes.
+  expected. It takes time to learn. Don't make this about the grade. 
 
