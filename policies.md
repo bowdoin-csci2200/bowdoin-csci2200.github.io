@@ -14,20 +14,16 @@ understanding of the material by discussing the problems with peers. Our goal is
 effective, and that you become an independent problem solver capable to do work on your own. 
 All students are expected to be familiar with and to comply with the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php) and the four levels of collaboration it outlines. Specifically for this class,
 
-  * **Exams:** *collaboration-level 3* (no collaboration  allowed, professor clarifications only). Exams will be in class. 
-  * **Quizzes:** *collaboration-level 3* (no collaboration  allowed). Quizzes will be remote, closed books and notes.
-  * **Labs:** *collaboration-level 0*; that is, no restrictions. However you must write your lab individually and submit it individually. 
-  * **Assignments:**  *collaboration-level 1*; that is, verbal collaboration without solution sharing. You are
-      allowed and encouraged to discuss ideas with other class members, but the communication should be verbal. No one is
+  * **Exams:** Exams will be in class, closed notes, at *collaboration-level 3* (no collaboration  allowed, professor clarifications only). 
+  * **Quizzes:** Quizzes will be remote, closed books and notes, at *collaboration-level 3* (no collaboration  allowed). 
+  * **Labs:** You will work on the lab problems in class in a group collaborating widely at *collaboration-level 0*; that is, no restrictions. However you must write your lab individually and submit it individually. If you are writing on the whiteboard, you can take a picture of the board and insert it in the lab. You may not take a picture of someone else's writing and use it for your lab. Everything you add to your lab has to be your own writing. 
+  * **Assignments:**   All assignments are partner-optional, that is, you may work with **one** partner (teams of at most 2 people). You can have the same partner for all assignments, or you can change partners.  If you work in a team, you will submit only one assignment for the team.
+     * Submitting team assignments in Gradescope:   One of the team members will submit the assignment and will add the partner to the team. It does not matter which member of the team  does this. If the member who submits does not add the the other member to the assignment, they will not get a grade.  We will be turning on _anonymous grading_ in Gradescope and we will not be able to add students to teams because we won't see names. 
+      * Partner policy: If you work on an assignment with a partner, you and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by both partners. Specifically splitting the assignment and working on the problems separately is not allowed and violates the honor code for the class. 
+     * Between different teams, assignments are at *collaboration-level 1*; that is, verbal collaboration without solution sharing. You are
+      allowed and encouraged to discuss ideas with other teams, but the communication should be verbal. No one is
       allowed to take notes during the discussion (being able to recreate the solution later from memory is proof that you
       actually understood it). Communication needs to stay at a high level and cannot include sharing pseudo-code for the problem.
-    
-All assignments are partner-optional, that is, you may work with **one** partner (teams of at most 2 people). You can have the same partner for all assignments, or you can change partners.  If you work in a team, you will submit only one assignment for the team.
-
-Note on submitting team assignments in Gradescope:   One of you will submit the assignment and will add your partner to the team. It does not matter which member of the team  does this. If the member who submits does not add the the other member to the assignment, they will not get a grade.  We will be turning on _anonymous grading_ in Gradescope and we will not be able to add students to teams because we won't see names. 
-
-Partner policy: If you work on an assignment with a partner, you and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by both partners. Specifically splitting the assignment and working on the problems separately is not allowed and violates the honor code for the class. 
-
 
 #### Internet policy
 
