@@ -25,7 +25,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 
 |Week and topic | Lab | Code | Due (submit in Gradescope)| 
-|-------------|-------------|
+|-------------------|-------------|-----| --------| 
 | Week 1 (warmup and quadratic sorts)| [Lab 1](docs/lab-week1.pdf) | [python-warmup.ipynb](docs/python-warmup.ipynb); [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)| Friday 9/6 by 2pm  | 
 | Week 2  (Asymptotics and summations) | [Lab 2](docs/lab-week2.pdf)  | | Friday 9/13 by 2pm  | 
 | Week 3 (Mergesort and recurrences)| [Lab 3](docs/lab-week3.pdf)  | | Friday 9/20 by 2pm  | 
@@ -38,6 +38,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 | Week 10  (greedy) | [Lab 10](docs/lab-week10.pdf) | | Friday 11/8 by 2pm  | 
 | Week 11 (graph basics and BFS| [Lab 11](docs/lab-week11.pdf)   | | __Friday 11/15: EXAM 2__| 
 | Week 12 (DFS, topological order and SP on DAGs)| [Lab 12](docs/lab-week12.pdf) | | Friday 11/22 by 2pm  | 
+| THANKSGIVING BREAK (eat, sleep, relax)| | | | 
 | Week 13 (Dijkstra and Bellman-Ford) | [Lab 13](docs/lab-week13.pdf) | | Friday 12/6 by 2pm  | 
 | Week 14 (Minimum spanning tree) | [Lab 14](docs/lab-week14.pdf)  | | Monday 12/9 by 2pm  | 
 
