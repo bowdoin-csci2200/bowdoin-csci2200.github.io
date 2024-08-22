@@ -12,12 +12,12 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 
 **Writing the labs:** Write down your solutions using your ipad and save it as a pdf document. The solutions can be quick/short but try to keep them moderately neat and make sure they are legible so that we can read them.  
 
-**Submitting the labs:**   You need to submit every lab by the end of the lab period (for Fall 2024: by 2pm on Fridays), on Gradescope. The labs will be loosely graded (see rubric below) and returned to you by Monday. The score on the lab will give you quick feedback on your learning that week. 
+**Submitting the labs:**   You need to submit every lab by the end of the lab period (for Fall 2024: by 2pm on Fridays), on Gradescope. The labs will be loosely graded (see rubric below) and returned to you by Monday. The score on the lab will give you quick feedback on your learning efforts that week. 
 
 **Lab grading rubric:**
-* 0 points: lab is not submitted or work is not satisfactory (< 50%)
-* 1 point:  lab work is in the B-C range (50%-75%). Your work is on the right path but needs to improve. 
-* 2 points: lab work is in the A-B range (>75%). Solid to great work. 
+* 0: lab is not submitted or work is not satisfactory (< 50%)
+* 1:  lab work is in the B-C range (50%-75%). Your work is on the right path but needs to improve. 
+* 2: lab work is in the A-B range (>75%). Solid to great work. 
 
 **Solutions:** We do not plan to distribute lab solutions on a weekly basis. We will ocasionally go over some lab problems together in class and point out key ideas and common mistakes and misconceptions. If you find that useful (or not) be sure to let us know so that we can adjust. When you feel that detailed solutions to a problem or a set of problems is important for your learning, let us know and we will send solutions. 
 
@@ -30,9 +30,9 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 | Week 2 | Asymptotics and summations | [Lab 2](docs/lab-week2.pdf)  | Friday 9/13 by 2pm  | 
 | Week 3 | Mergesort and recurrences| [Lab 3](docs/lab-week3.pdf)  | Friday 9/20 by 2pm  | 
 | Week 4 | Heaps, heapsort and quicksort| [Lab 4](docs/lab-week4.pdf) | Friday 9/27 by 2pm  | 
-| Week 5 | Sorting lower bound, counting sort, and Quick-Select |  tbd| Friday 10/4 by 2pm  | 
+| Week 5 | Sorting lower bound and counting sort. Quick-Select |  tbd| Friday 10/4 by 2pm  | 
 | Week 6 | Review and exam1  | no lab  |  __EXAM 1 on Friday 10/11__ | 
-| Week 7 | Selection. Divide-and-conquer and Karatsuba's algorithm|  | Friday 10/18 by 2pm  | 
+| Week 7 | Selection. <hr>Divide-and-conquer and Karatsuba's algorithm|  | Friday 10/18 by 2pm  | 
 | Week 8 | Dynamic programming|  | Friday 10/25 by 2pm  | 
 | Week 9 | Dynamic programming| | Friday 11/1 by 2pm  | 
 | Week 10 | Greedy algorithms|  | Friday 11/8 by 2pm  | 
