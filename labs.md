@@ -15,9 +15,9 @@ The weekly labs complement the lectures and contain a set of exercises and probl
 **Submitting the labs:**   You need to submit every lab by the end of the lab period (for Fall 2024: by 2pm on Fridays), on Gradescope. The labs will be loosely graded (see rubric below) and returned to you by Monday. The score on the lab will give you quick feedback on your learning efforts that week. 
 
    * Lab grading rubric:
-      * 0: lab is not submitted or work is not satisfactory (< 50%)
-      * 1:  lab work is in the B-C range (50%-75%). Your work is on the right path but needs to improve. 
-      * 2: lab work is in the A-B range (>75%). Solid to great work. 
+      * 0: lab is not submitted or work is not satisfactory (< 60%)
+      * 1: lab work  < 80%. Your work is solid but needs to improve. 
+      * 2: lab work > 80%. Good work. 
 
 **Lab solutions:** We do not plan to distribute lab solutions on a weekly basis. We will ocasionally go over some lab problems together in class and point out key ideas and common mistakes and misconceptions. If you find that useful (or not) be sure to let us know so that we can adjust. When you feel that detailed solutions to a problem or a set of problems is important for your learning, let us know and we will send solutions. 
 
