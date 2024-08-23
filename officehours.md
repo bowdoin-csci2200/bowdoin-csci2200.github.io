@@ -27,7 +27,7 @@ LAs office hours:
 
 
 Instructors office hours:
- * Cibele: tbd, Searles 122
+ * Cibele: tbd, Searles 121
  * Laura:  tbd, Searles 219 
 
 
