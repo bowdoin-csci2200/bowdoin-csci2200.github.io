@@ -41,7 +41,7 @@ Please familiarize yourself with the late policies of this course so that you ca
 * __Labs late policy:__ Labs are meant to be completed in class and have to be turned by their due date as it appears in Gradescope. __Labs are not accepted after the due date.__ Once the submission deadline closes Gradescope will not accept your lab.  It is better to turn in an unfinished lab than not to turn in at all. 
 
 
-* __Quizzes late policy:__ Quizzes have to be turned by their due date as it appears in Gradescope. __Quizzes are not accepted after the due date.__  Once the due date passes the submission will close and you will not be able to take the quiz. 
+* __Quizzes late policy:__ Quizzes have to be turned by their due date as it appears. __Quizzes are not accepted after the due date.__  Once the due date passes the submission will close and you will not be able to take the quiz. 
 
 
 * __Assignment late policy:__ Assignments will be posted with a **due date** and a **late due date** which will usually be 3 days after the due date (exceptions will be made to accomodate exams, breaks, last day of classes, etc).  Assignments submitted past the  due date will be marked LATE by Gradescope and will incur a penalty of .4% per hour (9.6% per day), which will be automatically applied at the end of the semester. Assignment submission will close after the assignment's late due date, and you will not be able to submit the assignment after that.  
