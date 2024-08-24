@@ -6,7 +6,7 @@ nav_order: 2
 
 ## CSCI 2200 Algorithms Fall 2024: Syllabus 
 
-In Fall 2024 we are running two sections of the class which will join for the lectures and will have separate labs. Prof. Cibele and Laura will co-teach. 
+In Fall 2024 we are running two sections of the class which will join for the lectures and will have separate labs. 
 
 
 |:---------------------|:--------------------|    
@@ -69,9 +69,9 @@ questions and problems. You can find the lecture notes on this site and they wil
 * Weekly lab: Each week there will be a set of problems (the lab) focused on the topics
 discussed that week.  Lab problems are meant to be solved in class while working with your group and talking to the LAs and instructor.  It is important that you strive to work through all problems, formulate questions, discuss with your group and are proactive about getting your questions answered. 
 
-* Weekly quiz: Each week (approximately) there will be a quiz focused on the material discussed that week, which you will take remotely on Gradescope. The quizzes are autograded and you will see  your results right away.  
+* Weekly quiz: Each week (approximately) there will be a quiz focused on the material discussed that week, which you will take remotely (on Canvas). The quizzes are autograded and you will see  your results right away.  
 
-* Weekly assignment: Each week, approximately, there will be an assignment focusing on the material learnt that week.  The assignments will generally be hard/creative and will consist of _new_ problems for which you will have to come up with solutions.  The homeworks will be heavily supported by LAs and we expect everyone will do well on the homeworks. 
+* Weekly assignment: Each week, approximately, there will be an assignment focusing on the material learnt that week.  The assignments will generally be hard/creative and will consist of _new_ problems for which you will have to come up with solutions.  The homeworks will be heavily supported by LAs and we expect everyone to learn and do well. 
 
 
 ### Work and grading policy
@@ -84,13 +84,16 @@ discussed that week.  Lab problems are meant to be solved in class while working
 
 There will be 3 in-class exams: 
     * Exam 1: Friday 10/11 in class 
+
     * Exam 2: Friday 11/15 in class
+    
     * Exam 3: December xx (check Polaris for the final exam slot for this class).
+
 The exams are non-cumulative, to the extent that it's possible. Each exam weighs 20%.
   
 What is class engagement? We understand that some of us are  shy/introvert and we are careful to use "engagement" in a broader sense than speaking up in class (we know that can be hard).  __Engagement means contributing to the class learning community__. 
 
-* What yo can do to help the class learning community:  attend class, work with your group,  engage in discussions, ask questions, volunteer answers, offer to write on the whiteboard,  participate on Slack, attend office hours, be respectful and inclusive of your peers, don't be loud, have a positive attitude, and generally strive to turn in good work. 
+* What you can do to help the class learning community:  attend class, work with your group,  engage in discussions, ask questions, volunteer answers, offer to write on the whiteboard,  participate on Slack, attend office hours, be respectful and inclusive of your peers, don't be loud, have a positive attitude, and generally strive to turn in good work. 
 
 * Activities that hinder the class learning community:  doing something else in class, working on a different assignment in class,  checking your messages,  dominating the discussion, not talking at all or talking too much, showing off when you finish a problem fast, not doing your readings and coming unprepared to contribute, etc. 
 
