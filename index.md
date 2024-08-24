@@ -20,7 +20,7 @@ This Github site (https://bowdoin-csci2200.github.io) hosts the general syllabus
 
 The full resources for the class wil be available on Canvas, Gradescope and Slack as follows: 
 
-  * __Canvas:__ The Canvas site for the class hosts the quizzes.  You'll also find there the link  to Gradescope and the url to join the Slack channel.
+  * __Canvas:__ The Canvas site for the class hosts the quizzes.  (You'll also find there the link  to Gradescope and the url to join the Slack channel. ) 
 
   * __Gradescope__: You will use Gradescope for submitting your labs and assignments. We chose to use Gradescope because it helps streamline the process of submission, grading and returning  feedback, and it is also useful for implementing practices like anonymous grading. You can access Gradescope directly at [https://www.gradescope.com/](https://www.gradescope.com/); or, from this github site using the link in the upper corner; Or, from the Canvas site of this course. Note that you first need to enroll in this class in Gradescope. 
 
