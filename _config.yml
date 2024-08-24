@@ -71,9 +71,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Canvas":
-    - "https://bowdoin.instructure.com/courses/"
+    - "https://bowdoin.instructure.com/courses/5979"
   "Gradescope":
-    - "https://www.gradescope.com/courses/"
+    - "https://www.gradescope.com/courses/828091"
   "Slack": 
     - "https://bowdoin-csci2200.slack.com"
 
