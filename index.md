@@ -18,7 +18,7 @@ nav_order: 1
 
 This Github site (https://bowdoin-csci2200.github.io) hosts the general syllabus and policies for the class, as well as the detailed schedule and lecture notes. This site is public and you can access it anytime without your Bowdoin credentials. 
 
-The full resources for the class will be available on Canvas, Gradescope and Slack as follows: 
+The __full resources__ for the class will be available on Canvas, Gradescope and Slack as follows: 
 
   * __Canvas:__ The Canvas site for the class hosts the quizzes.  (You'll also find there the link  to Gradescope and the url to join the Slack channel. ) 
 
