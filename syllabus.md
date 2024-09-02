@@ -83,6 +83,7 @@ discussed that week.  Lab problems are meant to be solved in class while working
 - Class engagement: tie breaker when your score is between two grades
 
 There will be 3 in-class exams: 
+
     * Exam 1: Friday 10/11 in class 
 
     * Exam 2: Friday 11/15 in class
