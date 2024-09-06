@@ -10,7 +10,7 @@ nav_order: 5
 
 Instructors: [Cibele Freire](https://www.bowdoin.edu/profiles/faculty/cfreire/index.html) (Searles 121) and [Laura Toma](https://tildesites.bowdoin.edu/~ltoma/)  (Searles 219)
 
-| ![](staff/cibele.jpg) | ![](staff/laura.jpg) | 
+ ![](staff/instr.jpg) 
 
 We have a wonderful group of LAs this semester: Rafael Almeida, Nolan Bessire, Addison Davis, Victoria Figueroa, Yassine Khayati,  Vaishali Miriyagalla,  Sebastian Sanchez and Luke Shaw. If enthusiasm for learning is large, we may be able to convince Professor Majercik to join us, as he has in the past. 
 	
