@@ -18,6 +18,7 @@ Objectives:
 __Resources:__     
   * __Notes:__ [LN-warmup.pdf](../docs/LN-warmup.pdf)     
   *  Code: [python-warmup.ipynb](../docs/python-warmup.ipynb), [python-insertionSort.ipynb](../docs/python-insertionSort.ipynb)
+    
  ***
  
  
@@ -50,7 +51,8 @@ Objectives:
 
 __Resources:__    
   * __Notes:__ [LN-recurrences.pdf](../docs/LN-recurrences.pdf), [quiz3-practice.pdf](../docs/quiz3-practice.pdf)
-  * Code: [python-mergeSort.ipynb](../docs/python-mergesort.ipynb)  
+  * Code: [python-mergeSort.ipynb](../docs/python-mergesort.ipynb)
+    
  ***
 
 
@@ -65,6 +67,7 @@ Objectives:
 __Resources:__     
 * __Notes:__ [LN-heapsort.pdf](../docs/LN-heapsort.pdf), [LN-quicksort.pdf](../docs/LN-quicksort.pdf)  
 * Code: [python-quickSort.ipynb](../docs/python-quicksort.ipynb)
+  
  ***
   
   
@@ -76,6 +79,7 @@ Objectives:
 
 __Resources:__     
   * __Notes:__ [LN-linsort.pdf](../docs/LN-linsort.pdf)
+    
 ***
 
 
@@ -87,7 +91,8 @@ __Objectives:__
 * An elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Resources:__
-  * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf) 
+  * __Notes:__  [LN-selection.pdf](../docs/LN-selection.pdf)
+    
  ***
  
 
@@ -105,6 +110,7 @@ Objectives:
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](../docs/LN-divideAndConquer.pdf)
   * Code: [karatsuba.ipynb](../docs/python-Karatsuba.ipynb)
+    
 ***
  
 ### Techniques: Dynamic Programming 
@@ -147,6 +153,7 @@ Objectives:
 
 __Resources:__
 *  __Notes__: [LN-graphBasics.pdf](../docs/LN-basics.pdf), [LN-bfsdfs.pdf](../docs/LN-bfsdfs.pdf), [LN-topsort.pdf](../docs/LN-topsort.pdf) 
+
 ***
 
   
@@ -165,6 +172,7 @@ Objectives:
 
 __Resources:__
 *  __Notes__:  [LN-shpaths.pdf](../docs/LN-shpaths.pdf)
+
 ***
 
  
@@ -183,6 +191,7 @@ Objectives:
 
 __Resources:__
 *  __Notes__:  [LN-mst.pdf](../docs/LN-mst.pdf), [LN-mst-summary.pdf](../docs/LN-mst-summary.pdf)
+
 ***
 
 ### Final review and some extra fun problems!
