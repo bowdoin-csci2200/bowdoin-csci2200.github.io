@@ -20,7 +20,7 @@ The weekly labs complement the lectures and contain a set of exercises and probl
       * 2: Work is solid but needs to improve. 
       * 3: Good work. 
 
-**Lab solutions:** We do not plan to distribute lab solutions on a weekly basis. We will ocasionally go over some lab problems together in class and point out key ideas and common mistakes and misconceptions. If you find that useful (or not) be sure to let us know so that we can adjust. When you feel that detailed solutions to a problem or a set of problems is important for your learning, let us know and we will send solutions. 
+**Lab solutions:** We do not plan to distribute lab solutions on a weekly basis. We will ocasionally go over some lab problems together in class and point out key ideas and common mistakes and misconceptions. If you find that useful (or not) be sure to let us know so that we can adjust. When you feel that detailed solutions to a problem or a set of problems are important for your learning, let us know and we will send solutions. 
 
 
 
