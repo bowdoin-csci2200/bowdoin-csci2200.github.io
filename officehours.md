@@ -13,8 +13,8 @@ Instructors: [Cibele Freire](https://www.bowdoin.edu/profiles/faculty/cfreire/in
 We have a wonderful group of LAs this semester: Rafael Almeida, Nolan Bessire, Addison Davis, Victoria Figueroa, Yassine Khayati,  Vaishali Miriyagalla,  Sebastian Sanchez and Luke Shaw. If enthusiasm for learning is large, we may be able to convince Professor Majercik to join us, as he has in the past. 
 	
 | ![](staff/victoria.jpg) | ![](staff/yassine.jpg) |  ![](staff/vaishali.jpg) |
-| ![](staff/rafael.jpg) | ![](staff/nolan.jpg)  | ![](staff/addison.jpg) |
-| ![](staff/sebastian.jpg) | ![](./staff/luke.jpg)   |
+| ![](staff/rafael.jpg) | ![](staff/nolan.jpg)  | ![](./staff/luke.jpg)  | 
+| ![](staff/addison.jpg) | ![](staff/sebastian.jpg) | 
 
 
 LAs office hours (in Searles 223): 
@@ -26,8 +26,9 @@ LAs office hours (in Searles 223):
 
 
 Instructors office hours:
-| Mondays | 11:30-1:30pm (Cibele) |  Searles 121 | 
-| Wednesdays   |  3-5pm (Laura) |  Searles 219 
+
+| Mondays      | 11:30-1:30pm (Cibele) |  Searles 121 | 
+| Wednesdays   |  3-5pm (Laura)        |  Searles 219  | 
 
 
 
