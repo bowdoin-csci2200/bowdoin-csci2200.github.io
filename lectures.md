@@ -50,7 +50,7 @@ Objectives:
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
 __Resources:__    
-  * __Notes:__ [LN-recurrences.pdf](../docs/LN-recurrences.pdf), [quiz3-practice.pdf](../docs/quiz3-practice.pdf)
+  * __Notes:__ [LN-recurrences.pdf](../docs/LN-recurrences.pdf)
   * Code: [python-mergeSort.ipynb](../docs/python-mergesort.ipynb)
     
  ***
