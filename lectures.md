@@ -36,7 +36,6 @@ Objectives:
 
 __Resources:__    
   * __Notes:__ [LN-asymptoticNotation.pdf](../docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](../docs/LN-summations.pdf)
-  * [quiz-practice.pdf](../docs/quiz2-practice.pdf)
     
 ***
       
