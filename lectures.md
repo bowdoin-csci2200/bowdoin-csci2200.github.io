@@ -70,7 +70,7 @@ __Resources:__
  ***
   
   
-### WSorting lower bound. Sorting without comparisons
+### Sorting lower bound. Sorting without comparisons
 
 Objectives: 
 * Can a sorting algorithm do better than Θ(n lg n) in the worst-case? Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
@@ -84,7 +84,7 @@ __Resources:__
 
 ### Selection
 
-__Objectives:__ 
+Objectives:
 * The selection problem
 * Quick-Select in expected O(n) time 
 * An elegant and ingenious algorithm that runs in O(n) worst-case.
@@ -98,7 +98,6 @@ __Resources:__
 What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some general techniques that come up frequently: divide-and-conquer, dynamic programming and greedy.  
 
 ### Techniques: Divide-and-conquer
-
 
 Objectives: 
 * The divide-and-conquer technique 
