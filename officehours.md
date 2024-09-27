@@ -29,7 +29,7 @@ LAs office hours (in Searles 223):
 
 Instructors office hours:
 
-| Mondays      | 11:30-1:30pm (Cibele) |  Searles 121 | 
+| Mondays      | ~11:30-1:30pm~ 4:15-6:15 (Cibele) |  Searles 121 | 
 | Wednesdays   |  3-5pm (Laura)        |  Searles 219  | 
 
 
