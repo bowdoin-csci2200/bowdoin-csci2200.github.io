@@ -19,7 +19,7 @@ We have a wonderful group of LAs this semester: Rafael Almeida, Nolan Bessire, A
 | ![](staff/addison.jpg) | ![](staff/sebastian.jpg) | 
 
 
-LAs office hours (in Searles 223): 
+LAs office hours (in Searles 224): 
 
 | Sundays      |  1-3pm (Yassine) and 7-9pm (Addison) |   
 | Mondays      |  7-9pm (Nolan) |  
