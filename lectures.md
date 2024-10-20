@@ -90,7 +90,7 @@ Objectives:
 * An elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Resources:__
-  * __Notes:__  [LN-selection.pdf](../docs/LN-quickselect.pdf), [LN-selection.pdf](../docs/LN-selection.pdf)
+  * __Notes:__  [LN-quickSelect.pdf](../docs/LN-quickselect.pdf), [LN-selection.pdf](../docs/LN-selection.pdf)
     
  ***
  
